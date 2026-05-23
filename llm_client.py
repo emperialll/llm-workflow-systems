@@ -8,68 +8,95 @@ load_dotenv(find_dotenv())
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.5")
+DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
 
 
-def get_completion(
-    prompt: str,
-    model: str = DEFAULT_MODEL,
-    temperature: float | None = None,
-    max_tokens: int = 500,
-) -> tuple[str, dict[str, int]]:
+def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
-
-    return get_chat_completion(
-        messages=messages,
+    response = client.chat.completions.create(
         model=model,
-        temperature=temperature,
+        messages=messages,
+        temperature=0, # this is the degree of randomness of the model's output 
+    )
+    return response.choices[0].message.content
+
+
+def get_completion_from_messages(messages,
+                                 model="gpt-3.5-turbo",
+                                 temperature=0,
+                                 max_tokens=500):
+    response = client.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=temperature, # this is the degree of randomness of the model's output
+        max_tokens=max_tokens, # the maximum number of tokens the model can ouptut
+    )
+    return response.choices[0].message.content
+
+
+messages =  [  
+        {'role':'system', 
+        'content':"""You are an assistant who\
+        responds in the style of Dr Seuss."""},
+        {'role':'user',
+        'content':"""write me a very short poem\
+        about a happy carrot"""}
+    ] 
+response = get_completion_from_messages(messages, temperature=1)
+#print(response)
+
+messages =  [  
+        {'role':'system',
+        'content':'All your responses must be \
+        one sentence long.'},
+        {'role':'user',
+        'content':'write me a story about a happy carrot'},  
+    ]
+response = get_completion_from_messages(messages, temperature =1)
+#print(response)
+
+
+messages =  [  
+        {'role':'system',
+        'content':"""You are an assistant who \
+        responds in the style of Dr Seuss. \
+        All your responses must be one sentence long."""},
+        {'role':'user',
+        'content':"""write me a story about a happy carrot"""},
+    ]
+response = get_completion_from_messages(messages, temperature =1)
+#print(response)
+
+def get_completion_and_token_count(messages,
+                                 model="gpt-3.5-turbo",
+                                 temperature=0,
+                                 max_tokens=500):
+    response = client.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=temperature, 
         max_tokens=max_tokens,
     )
 
-
-def get_chat_completion(
-    messages: list[dict[str, str]],
-    model: str = DEFAULT_MODEL,
-    temperature: float | None = None,
-    max_tokens: int = 500,
-) -> tuple[str, dict[str, int]]:
-    params: dict[str, Any] = {
-        "model": model,
-        "messages": messages,
-        "max_completion_tokens": max_tokens,
-    }
-
-    # Some models, especially GPT-5-style/reasoning models,
-    # do not support custom temperature values.
-    # So we only send temperature when it is explicitly provided.
-    if temperature is not None:
-        params["temperature"] = temperature
-
-    response = client.chat.completions.create(**params)
-
-    content = response.choices[0].message.content or ""
+    content = response.choices[0].message.content
 
     token_dict = {
-        "prompt_tokens": response.usage.prompt_tokens if response.usage else 0,
-        "completion_tokens": response.usage.completion_tokens if response.usage else 0,
-        "total_tokens": response.usage.total_tokens if response.usage else 0,
+        "prompt_tokens": response.usage.prompt_tokens,
+        "completion_tokens": response.usage.completion_tokens,
+        "total_tokens": response.usage.total_tokens,
     }
 
     return content, token_dict
 
-
 messages = [
-    {
-        "role": "system",
-        "content": "You are an assistant who responds in the style of Dr. Seuss.",
-    },
-    {
-        "role": "user",
-        "content": "Write me a very short poem about a happy carrot.",
-    },
-]
-
-response, token_dict = get_chat_completion(messages)
+        {'role':'system',
+        'content':"""You are an assistant who responds 
+        in the style of Dr Seuss."""},
+        {'role':'user',
+        'content':"""write me a very short poem 
+        about a happy carrot"""},
+    ]
+response, token_dict = get_completion_and_token_count(messages)
 
 print(response)
 print(token_dict)
