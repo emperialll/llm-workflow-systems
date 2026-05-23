@@ -1,0 +1,4111 @@
+{
+  "B1.1": {
+    "Unit 1": [
+      {
+        "topic": "Adjektive als Nomen",
+        "description": "Adjektive als Nomen are adjectives used like nouns to describe people or abstract groups. They are written with a capital letter and take adjective endings. They often appear after articles such as der, die, das, ein, eine, viele, manche, alle. For people, masculine forms usually refer to male persons, feminine forms to female persons, and plural forms to groups.",
+        "examples": [
+          {
+            "de": "Der Alte braucht Hilfe.",
+            "en": "The old man needs help."
+          },
+          {
+            "de": "Die Kranke liegt im Bett.",
+            "en": "The sick woman is lying in bed."
+          },
+          {
+            "de": "Viele Arbeitslose suchen eine neue Stelle.",
+            "en": "Many unemployed people are looking for a new job."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to capitalize the adjective when it is used as a noun: der Alte, not der alte.",
+          "Using the wrong adjective ending: ein Kranker, not ein Kranke.",
+          "Confusing adjective-as-noun forms with normal adjective + noun structures.",
+          "Forgetting that plural forms often describe groups of people: die Reichen = the rich people."
+        ],
+        "english_test": [
+          "The old man is sitting in the park.",
+          "A German woman helped me.",
+          "Many young people want to travel.",
+          "The unemployed people need support.",
+          "Something new happened yesterday."
+        ],
+        "persian_test": [
+          "آن مرد فقیر پول ندارد.",
+          "یک بیمار باید استراحت کند.",
+          "افراد ثروتمند در این محله زندگی می‌کنند.",
+          "امروز چیز جالبی یاد گرفتم.",
+          "آن زن ناشناس با پلیس صحبت کرد."
+        ]
+      },
+      {
+        "topic": "n-Deklination",
+        "description": "n-Deklination is a special declension pattern for many masculine nouns. These nouns usually receive -n or -en in Akkusativ, Dativ, and Genitiv singular, as well as in plural. The nominative singular usually stays unchanged. It often applies to masculine nouns referring to people or animals, especially nouns ending in -e, -ent, -ant, -ist, -oge, and some special nouns like der Herr, der Name, der Gedanke.",
+        "examples": [
+          {
+            "de": "Ich sehe den Kollegen im Büro.",
+            "en": "I see the colleague in the office."
+          },
+          {
+            "de": "Wir helfen dem Studenten bei der Aufgabe.",
+            "en": "We help the student with the task."
+          },
+          {
+            "de": "Der Name des Kunden steht auf der Liste.",
+            "en": "The customer's name is on the list."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting the -n or -en ending outside nominative: Ich sehe den Kollege → incorrect; Ich sehe den Kollegen → correct.",
+          "Using n-Deklination with feminine or neuter nouns. It mainly applies to masculine nouns.",
+          "Forgetting that many profession/person nouns are weak nouns: der Student, der Journalist, der Patient.",
+          "Confusing regular plural -n with n-Deklination in singular cases.",
+          "Forgetting special forms like der Name → den Namen, dem Namen, des Namens."
+        ],
+        "english_test": [
+          "I know the student.",
+          "She helps the colleague.",
+          "We speak with the customer.",
+          "The journalist interviews the politician.",
+          "The name of the patient is wrong."
+        ],
+        "persian_test": [
+          "من آن همکار را امروز دیدم.",
+          "او به آن دانشجو کمک می‌کند.",
+          "ما با آن مشتری صحبت کردیم.",
+          "اسم آن آقا را نمی‌دانم.",
+          "پلیس از شاهد سؤال کرد."
+        ]
+      }
+    ],
+    "Unit 2": [],
+    "Unit 3": [
+      {
+        "topic": "Relativpronomen und Relativsatz",
+        "description": "Relative clauses (Relativsätze) give additional information about a noun. They are introduced by relative pronouns (der, die, das, etc.) and the verb goes to the end of the clause. The relative pronoun depends on the gender and number of the noun, and its case depends on its role inside the relative clause.",
+        "examples": [
+          {
+            "de": "Das ist der Mann, der hier arbeitet.",
+            "en": "That is the man who works here."
+          },
+          {
+            "de": "Ich kenne die Frau, die Deutsch spricht.",
+            "en": "I know the woman who speaks German."
+          },
+          {
+            "de": "Das ist das Buch, das ich lese.",
+            "en": "That is the book that I am reading."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to send the verb to the end of the relative clause.",
+          "Using wrong relative pronoun gender (der/die/das).",
+          "Confusing relative pronoun case with the noun case in the main sentence.",
+          "Using 'wo' instead of proper relative pronouns in formal German."
+        ],
+        "english_test": [
+          "This is the man who lives next door.",
+          "I see the woman who is talking.",
+          "That is the book that I bought.",
+          "We know the people who work here.",
+          "He has a car that is very fast."
+        ],
+        "persian_test": [
+          "این مردی است که اینجا کار می‌کند.",
+          "من زنی را می‌بینم که صحبت می‌کند.",
+          "آن کتابی است که خریدم.",
+          "ما افرادی را می‌شناسیم که اینجا کار می‌کنند.",
+          "او ماشینی دارد که خیلی سریع است."
+        ]
+      },
+      {
+        "topic": "Relativpronomen im Nominativ",
+        "description": "In the nominative case, the relative pronoun is the subject of the relative clause. It refers back to the noun and performs the action in the clause.",
+        "examples": [
+          {
+            "de": "Das ist der Mann, der hier wohnt.",
+            "en": "That is the man who lives here."
+          },
+          {
+            "de": "Die Frau, die dort steht, ist meine Lehrerin.",
+            "en": "The woman who is standing there is my teacher."
+          },
+          {
+            "de": "Das Kind, das spielt, ist glücklich.",
+            "en": "The child that is playing is happy."
+          }
+        ],
+        "common_mistakes": [
+          "Using accusative instead of nominative pronoun.",
+          "Choosing wrong gender for the pronoun.",
+          "Forgetting verb-final position."
+        ],
+        "english_test": [
+          "The man who works here is friendly.",
+          "The woman who sings is famous.",
+          "The child who plays is happy.",
+          "The teacher who speaks is kind.",
+          "The dog that runs is fast."
+        ],
+        "persian_test": [
+          "مردی که اینجا کار می‌کند مهربان است.",
+          "زنی که آواز می‌خواند معروف است.",
+          "کودکی که بازی می‌کند خوشحال است.",
+          "معلمی که صحبت می‌کند مهربان است.",
+          "سگی که می‌دود سریع است."
+        ]
+      },
+      {
+        "topic": "Relativpronomen im Akkusativ",
+        "description": "In the accusative case, the relative pronoun is the object of the relative clause. It receives the action.",
+        "examples": [
+          {
+            "de": "Das ist der Mann, den ich sehe.",
+            "en": "That is the man whom I see."
+          },
+          {
+            "de": "Die Frau, die ich treffe, ist nett.",
+            "en": "The woman whom I meet is nice."
+          },
+          {
+            "de": "Das Buch, das ich lese, ist interessant.",
+            "en": "The book that I read is interesting."
+          }
+        ],
+        "common_mistakes": [
+          "Using nominative instead of accusative (der instead of den).",
+          "Forgetting that masculine changes (der → den).",
+          "Mixing main clause case with relative clause case."
+        ],
+        "english_test": [
+          "The man whom I see is my neighbor.",
+          "The woman whom I call is busy.",
+          "The book that I read is good.",
+          "The dog that I feed is hungry.",
+          "The friend whom I visit is happy."
+        ],
+        "persian_test": [
+          "مردی که می‌بینم همسایه من است.",
+          "زنی که با او تماس می‌گیرم مشغول است.",
+          "کتابی که می‌خوانم خوب است.",
+          "سگی که به او غذا می‌دهم گرسنه است.",
+          "دوستی که ملاقات می‌کنم خوشحال است."
+        ]
+      },
+      {
+        "topic": "Relativpronomen im Dativ",
+        "description": "In the dative case, the relative pronoun is used when the verb in the relative clause requires a dative object.",
+        "examples": [
+          {
+            "de": "Das ist der Mann, dem ich helfe.",
+            "en": "That is the man whom I help."
+          },
+          {
+            "de": "Die Frau, der ich danke, ist freundlich.",
+            "en": "The woman whom I thank is friendly."
+          },
+          {
+            "de": "Das Kind, dem ich ein Geschenk gebe, ist froh.",
+            "en": "The child to whom I give a gift is happy."
+          }
+        ],
+        "common_mistakes": [
+          "Using accusative instead of dative (den instead of dem).",
+          "Not knowing which verbs require dative (helfen, danken).",
+          "Confusing indirect object role."
+        ],
+        "english_test": [
+          "The man to whom I speak is kind.",
+          "The woman to whom I give the book is happy.",
+          "The child to whom I write is my cousin.",
+          "The teacher to whom I explain it understands.",
+          "The friend to whom I send a message replies quickly."
+        ],
+        "persian_test": [
+          "مردی که با او صحبت می‌کنم مهربان است.",
+          "زنی که کتاب را به او می‌دهم خوشحال است.",
+          "کودکی که برای او نامه می‌نویسم فامیل من است.",
+          "معلمی که برایش توضیح می‌دهم می‌فهمد.",
+          "دوستی که برایش پیام می‌فرستم سریع جواب می‌دهد."
+        ]
+      },
+      {
+        "topic": "Relativpronomen im Genitiv",
+        "description": "In the genitive case, the relative pronoun expresses possession (whose). It replaces a possessive structure.",
+        "examples": [
+          {
+            "de": "Das ist der Mann, dessen Auto kaputt ist.",
+            "en": "That is the man whose car is broken."
+          },
+          {
+            "de": "Die Frau, deren Kind krank ist, bleibt zu Hause.",
+            "en": "The woman whose child is sick stays at home."
+          },
+          {
+            "de": "Das Haus, dessen Dach rot ist, gehört mir.",
+            "en": "The house whose roof is red belongs to me."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'sein/ihr' instead of genitive relative pronoun.",
+          "Confusing dessen vs deren.",
+          "Avoiding genitive due to difficulty (very common)."
+        ],
+        "english_test": [
+          "The man whose car is new is here.",
+          "The woman whose child is playing is happy.",
+          "The house whose door is open is old.",
+          "The student whose book is missing is worried.",
+          "The company whose products are famous is growing."
+        ],
+        "persian_test": [
+          "مردی که ماشینش جدید است اینجاست.",
+          "زنی که بچه‌اش بازی می‌کند خوشحال است.",
+          "خانه‌ای که درش باز است قدیمی است.",
+          "دانشجویی که کتابش گم شده نگران است.",
+          "شرکتی که محصولاتش معروف است در حال رشد است."
+        ]
+      }
+    ],
+    "Unit 4": [
+      {
+        "topic": "obwohl (Nebensatz)",
+        "description": "‘Obwohl’ is a subordinating conjunction used to express contrast (although / even though). It introduces a subordinate clause, so the verb goes to the end of the sentence. It shows that something happens despite a condition.",
+        "examples": [
+          {
+            "de": "Ich gehe spazieren, obwohl es regnet.",
+            "en": "I go for a walk although it is raining."
+          },
+          {
+            "de": "Er arbeitet, obwohl er krank ist.",
+            "en": "He works even though he is sick."
+          },
+          {
+            "de": "Wir bleiben draußen, obwohl es kalt ist.",
+            "en": "We stay outside although it is cold."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to move the verb to the end: obwohl es regnet → correct, obwohl es regnet ist → incorrect.",
+          "Using obwohl like a main clause (wrong word order).",
+          "Confusing obwohl with weil (cause vs contrast).",
+          "Using trotzdem in the same clause incorrectly."
+        ],
+        "english_test": [
+          "I go out although it is cold.",
+          "She works although she is tired.",
+          "We play although it rains.",
+          "He stays although he is sick.",
+          "They travel although it is expensive."
+        ],
+        "persian_test": [
+          "با اینکه هوا سرد است بیرون می‌روم.",
+          "با اینکه خسته است کار می‌کند.",
+          "با اینکه باران می‌بارد بازی می‌کنیم.",
+          "با اینکه بیمار است می‌ماند.",
+          "با اینکه گران است سفر می‌کنند."
+        ]
+      },
+      {
+        "topic": "trotzdem (Hauptsatz)",
+        "description": "‘Trotzdem’ is an adverb used in main clauses to express contrast (nevertheless / still). It usually appears in position 1, which means the verb comes immediately after it (position 2). It connects two main clauses and shows contrast with the previous sentence.",
+        "examples": [
+          {
+            "de": "Es regnet. Trotzdem gehe ich spazieren.",
+            "en": "It is raining. Nevertheless, I go for a walk."
+          },
+          {
+            "de": "Er ist krank. Trotzdem arbeitet er.",
+            "en": "He is sick. Still, he works."
+          },
+          {
+            "de": "Es ist kalt. Trotzdem bleiben wir draußen.",
+            "en": "It is cold. Nevertheless, we stay outside."
+          }
+        ],
+        "common_mistakes": [
+          "Using trotzdem with subordinate clause word order.",
+          "Not placing the verb in position 2 after trotzdem.",
+          "Mixing obwohl and trotzdem in the same clause incorrectly.",
+          "Forgetting that trotzdem connects two main clauses."
+        ],
+        "english_test": [
+          "It is raining. Nevertheless, I go out.",
+          "She is tired. Still, she works.",
+          "It is cold. Nevertheless, we stay outside.",
+          "He is sick. Still, he goes to work.",
+          "The task is difficult. Nevertheless, they try."
+        ],
+        "persian_test": [
+          "باران می‌بارد. با این حال بیرون می‌روم.",
+          "او خسته است. با این حال کار می‌کند.",
+          "هوا سرد است. با این حال بیرون می‌مانیم.",
+          "او بیمار است. با این حال سر کار می‌رود.",
+          "کار سخت است. با این حال تلاش می‌کنند."
+        ]
+      }
+    ],
+    "Unit 5": [
+      {
+        "topic": "Futur I (werden + Infinitiv)",
+        "description": "Futur I is used to talk about future actions, predictions, assumptions, promises, or intentions. It is formed with the auxiliary verb 'werden' (conjugated) + the infinitive of the main verb at the end of the sentence.",
+        "examples": [
+          {
+            "de": "Ich werde morgen arbeiten.",
+            "en": "I will work tomorrow."
+          },
+          {
+            "de": "Er wird später anrufen.",
+            "en": "He will call later."
+          },
+          {
+            "de": "Wir werden das Problem lösen.",
+            "en": "We will solve the problem."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to place the infinitive at the end of the sentence.",
+          "Using wrong conjugation of 'werden'.",
+          "Overusing Futur I instead of Präsens in daily conversation.",
+          "Confusing 'werden' as a main verb vs auxiliary verb."
+        ],
+        "english_test": [
+          "I will go to the gym tomorrow.",
+          "She will call you later.",
+          "We will finish the project soon.",
+          "He will buy a new car.",
+          "They will arrive next week."
+        ],
+        "persian_test": [
+          "من فردا به باشگاه خواهم رفت.",
+          "او بعداً با تو تماس خواهد گرفت.",
+          "ما به زودی پروژه را تمام خواهیم کرد.",
+          "او یک ماشین جدید خواهد خرید.",
+          "آنها هفته آینده خواهند رسید."
+        ]
+      },
+      {
+        "topic": "Präsens mit Zeitangabe für Zukunft",
+        "description": "In German, the present tense (Präsens) is often used to express future actions when a clear time expression is included. This is very common in spoken German and often preferred over Futur I.",
+        "examples": [
+          {
+            "de": "Ich gehe morgen ins Kino.",
+            "en": "I am going to the cinema tomorrow."
+          },
+          {
+            "de": "Wir treffen uns am Wochenende.",
+            "en": "We meet on the weekend."
+          },
+          {
+            "de": "Er kommt später.",
+            "en": "He is coming later."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to include a time expression when using Präsens for future.",
+          "Using Futur I unnecessarily in simple everyday situations.",
+          "Incorrect word order with time expressions.",
+          "Mixing present and future incorrectly in one sentence."
+        ],
+        "english_test": [
+          "I go to Berlin tomorrow.",
+          "We meet next week.",
+          "She comes later.",
+          "They travel next month.",
+          "He starts work tomorrow."
+        ],
+        "persian_test": [
+          "من فردا به برلین می‌روم.",
+          "ما هفته آینده همدیگر را می‌بینیم.",
+          "او بعداً می‌آید.",
+          "آنها ماه آینده سفر می‌کنند.",
+          "او فردا کار را شروع می‌کند."
+        ]
+      }
+    ],
+    "Unit 6": [
+      {
+        "topic": "falls (Bedingung)",
+        "description": "‘Falls’ is a subordinating conjunction used to express a condition (if). It is similar to ‘wenn’, but it is more formal and often implies uncertainty or a lower probability. It introduces a subordinate clause, so the verb goes to the end.",
+        "examples": [
+          {
+            "de": "Falls es morgen regnet, bleibe ich zu Hause.",
+            "en": "If it rains tomorrow, I will stay at home."
+          },
+          {
+            "de": "Ruf mich an, falls du Hilfe brauchst.",
+            "en": "Call me if you need help."
+          },
+          {
+            "de": "Falls er kommt, beginnen wir später.",
+            "en": "If he comes, we will start later."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting verb goes to the end: falls du Hilfe brauchst → correct, not brauchst du Hilfe.",
+          "Confusing falls with wenn in all situations (falls = less certain).",
+          "Using wrong word order in main clause after subordinate clause.",
+          "Using falls for past or repeated situations (use wenn instead)."
+        ],
+        "english_test": [
+          "If it rains, I will stay home.",
+          "Call me if you have time.",
+          "If he arrives, we will start.",
+          "If she needs help, I will assist her.",
+          "If they come, we will wait."
+        ],
+        "persian_test": [
+          "اگر باران ببارد، در خانه می‌مانم.",
+          "اگر وقت داشتی به من زنگ بزن.",
+          "اگر او برسد، شروع می‌کنیم.",
+          "اگر او کمک نیاز داشت، کمکش می‌کنم.",
+          "اگر آنها بیایند، منتظر می‌مانیم."
+        ]
+      }
+    ],
+    "Unit 7": [
+      {
+        "topic": "Infinitiv mit zu",
+        "description": "The 'Infinitiv mit zu' is used to connect two actions in a sentence when the subject is the same. The structure is: main clause + comma + 'zu' + infinitive (at the end). It is commonly used after certain verbs, nouns, and expressions.",
+        "examples": [
+          {
+            "de": "Ich versuche, Deutsch zu lernen.",
+            "en": "I try to learn German."
+          },
+          {
+            "de": "Er plant, morgen zu reisen.",
+            "en": "He plans to travel tomorrow."
+          },
+          {
+            "de": "Wir haben beschlossen, früher zu gehen.",
+            "en": "We decided to leave earlier."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'zu' before the infinitive.",
+          "Placing the infinitive in the wrong position (not at the end).",
+          "Using different subjects (this structure requires same subject).",
+          "Confusing it with 'dass' clauses."
+        ],
+        "english_test": [
+          "I try to learn German.",
+          "She plans to travel.",
+          "We decided to leave early.",
+          "He wants to buy a car.",
+          "They hope to succeed."
+        ],
+        "persian_test": [
+          "من سعی می‌کنم آلمانی یاد بگیرم.",
+          "او برنامه دارد سفر کند.",
+          "ما تصمیم گرفتیم زودتر برویم.",
+          "او می‌خواهد ماشین بخرد.",
+          "آنها امیدوارند موفق شوند."
+        ]
+      },
+      {
+        "topic": "Infinitiv mit zu nach Nomen + haben",
+        "description": "After certain nouns combined with 'haben', the infinitive with 'zu' is used. Common expressions include: Lust haben, Angst haben, Zeit haben, Möglichkeit haben.",
+        "examples": [
+          {
+            "de": "Ich habe Lust, ins Kino zu gehen.",
+            "en": "I feel like going to the cinema."
+          },
+          {
+            "de": "Er hat Angst, den Fehler zu machen.",
+            "en": "He is afraid of making a mistake."
+          },
+          {
+            "de": "Wir haben keine Zeit, das zu erledigen.",
+            "en": "We have no time to do that."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'zu' in the infinitive clause.",
+          "Using wrong noun expressions.",
+          "Incorrect word order after comma.",
+          "Mixing with 'dass' unnecessarily."
+        ],
+        "english_test": [
+          "I have time to help you.",
+          "She has no desire to go out.",
+          "He has the chance to win.",
+          "We have no time to finish it.",
+          "They have the opportunity to learn."
+        ],
+        "persian_test": [
+          "من وقت دارم به تو کمک کنم.",
+          "او تمایلی برای بیرون رفتن ندارد.",
+          "او فرصت دارد برنده شود.",
+          "ما وقت نداریم آن را تمام کنیم.",
+          "آنها فرصت دارند یاد بگیرند."
+        ]
+      },
+      {
+        "topic": "Infinitiv mit zu mit 'es ist ...'",
+        "description": "The infinitive with 'zu' is often used after expressions with 'es ist' such as 'es ist wichtig', 'es ist schwer', 'es ist interessant'.",
+        "examples": [
+          {
+            "de": "Es ist wichtig, viel zu lernen.",
+            "en": "It is important to learn a lot."
+          },
+          {
+            "de": "Es ist schwer, Deutsch zu verstehen.",
+            "en": "It is difficult to understand German."
+          },
+          {
+            "de": "Es ist interessant, neue Leute kennenzulernen.",
+            "en": "It is interesting to meet new people."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'zu'.",
+          "Using wrong structure with 'dass'.",
+          "Placing verb incorrectly.",
+          "Not separating the clause with comma."
+        ],
+        "english_test": [
+          "It is important to practice.",
+          "It is hard to understand.",
+          "It is easy to learn.",
+          "It is interesting to read.",
+          "It is necessary to work."
+        ],
+        "persian_test": [
+          "مهم است تمرین کنیم.",
+          "سخت است بفهمیم.",
+          "آسان است یاد بگیریم.",
+          "جالب است بخوانیم.",
+          "لازم است کار کنیم."
+        ]
+      },
+      {
+        "topic": "Infinitiv mit zu bei trennbaren Verben",
+        "description": "With separable verbs, 'zu' is placed between the prefix and the verb root.",
+        "examples": [
+          {
+            "de": "Ich habe vor, morgen aufzustehen.",
+            "en": "I plan to get up tomorrow."
+          },
+          {
+            "de": "Er versucht, das Fenster aufzumachen.",
+            "en": "He tries to open the window."
+          },
+          {
+            "de": "Wir haben vergessen, die Tür abzuschließen.",
+            "en": "We forgot to lock the door."
+          }
+        ],
+        "common_mistakes": [
+          "Placing 'zu' before the whole verb instead of inside it.",
+          "Writing 'zu aufstehen' instead of 'aufzustehen'.",
+          "Confusing separable vs inseparable verbs."
+        ],
+        "english_test": [
+          "I try to wake up early.",
+          "She plans to turn on the light.",
+          "We forgot to close the door.",
+          "He wants to call back.",
+          "They begin to clean up."
+        ],
+        "persian_test": [
+          "من سعی می‌کنم زود بیدار شوم.",
+          "او برنامه دارد چراغ را روشن کند.",
+          "ما فراموش کردیم در را ببندیم.",
+          "او می‌خواهد دوباره تماس بگیرد.",
+          "آنها شروع به تمیز کردن می‌کنند."
+        ]
+      },
+      {
+        "topic": "ohne zu",
+        "description": "'Ohne zu' is used to express that something happens without another action happening. It requires the same subject in both clauses.",
+        "examples": [
+          {
+            "de": "Er geht, ohne etwas zu sagen.",
+            "en": "He leaves without saying anything."
+          },
+          {
+            "de": "Sie arbeitet, ohne eine Pause zu machen.",
+            "en": "She works without taking a break."
+          },
+          {
+            "de": "Wir gingen, ohne uns zu verabschieden.",
+            "en": "We left without saying goodbye."
+          }
+        ],
+        "common_mistakes": [
+          "Using different subjects (must be same subject).",
+          "Forgetting 'zu'.",
+          "Wrong word order.",
+          "Confusing with 'ohne dass'."
+        ],
+        "english_test": [
+          "He left without saying goodbye.",
+          "She works without resting.",
+          "They eat without talking.",
+          "We left without noticing.",
+          "I studied without sleeping."
+        ],
+        "persian_test": [
+          "او بدون خداحافظی رفت.",
+          "او بدون استراحت کار می‌کند.",
+          "آنها بدون صحبت غذا می‌خورند.",
+          "ما بدون توجه رفتیم.",
+          "من بدون خوابیدن درس خواندم."
+        ]
+      },
+      {
+        "topic": "statt zu",
+        "description": "'Statt zu' is used to express doing one thing instead of another. It also requires the same subject in both clauses.",
+        "examples": [
+          {
+            "de": "Er spielt, statt zu lernen.",
+            "en": "He plays instead of studying."
+          },
+          {
+            "de": "Sie schaut fern, statt zu arbeiten.",
+            "en": "She watches TV instead of working."
+          },
+          {
+            "de": "Wir gehen spazieren, statt zu Hause zu bleiben.",
+            "en": "We go for a walk instead of staying at home."
+          }
+        ],
+        "common_mistakes": [
+          "Using different subjects.",
+          "Forgetting 'zu'.",
+          "Incorrect word order.",
+          "Confusing with 'statt dass'."
+        ],
+        "english_test": [
+          "He plays instead of studying.",
+          "She sleeps instead of working.",
+          "They watch TV instead of reading.",
+          "We go out instead of staying home.",
+          "I eat instead of cooking."
+        ],
+        "persian_test": [
+          "او به جای درس خواندن بازی می‌کند.",
+          "او به جای کار کردن می‌خوابد.",
+          "آنها به جای خواندن تلویزیون می‌بینند.",
+          "ما به جای ماندن در خانه بیرون می‌رویم.",
+          "من به جای آشپزی غذا می‌خورم."
+        ]
+      }
+    ],
+    "Unit 8": [
+      {
+        "topic": "da (Grund)",
+        "description": "'Da' is a subordinating conjunction used to express a reason (because / since). It is similar to 'weil', but it is more formal and often used when the reason is already known or obvious. The verb goes to the end of the clause.",
+        "examples": [
+          {
+            "de": "Da ich müde bin, gehe ich früh ins Bett.",
+            "en": "Since I am tired, I go to bed early."
+          },
+          {
+            "de": "Ich bleibe zu Hause, da es regnet.",
+            "en": "I stay at home because it is raining."
+          },
+          {
+            "de": "Da er keine Zeit hat, kommt er nicht.",
+            "en": "Since he has no time, he does not come."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong word order (verb must be at the end).",
+          "Confusing 'da' with 'weil' in informal speaking.",
+          "Using 'da' in situations where the reason is not known (less natural).",
+          "Forgetting comma before subordinate clause."
+        ],
+        "english_test": [
+          "Since I am tired, I go to sleep.",
+          "Because it rains, I stay home.",
+          "Since he is busy, he cannot come.",
+          "Because she is sick, she rests.",
+          "Since we have time, we relax."
+        ],
+        "persian_test": [
+          "چون خسته هستم زود می‌خوابم.",
+          "چون باران می‌بارد در خانه می‌مانم.",
+          "چون او مشغول است نمی‌آید.",
+          "چون بیمار است استراحت می‌کند.",
+          "چون وقت داریم استراحت می‌کنیم."
+        ]
+      },
+      {
+        "topic": "bevor (zeitlich – vorher)",
+        "description": "'Bevor' is a subordinating conjunction used to describe an action that happens before another action. The verb goes to the end of the clause.",
+        "examples": [
+          {
+            "de": "Ich esse, bevor ich gehe.",
+            "en": "I eat before I go."
+          },
+          {
+            "de": "Bevor er arbeitet, trinkt er Kaffee.",
+            "en": "Before he works, he drinks coffee."
+          },
+          {
+            "de": "Wir sprechen, bevor wir entscheiden.",
+            "en": "We talk before we decide."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting verb goes to the end.",
+          "Confusing 'bevor' with 'nachdem'.",
+          "Incorrect tense usage in complex sentences.",
+          "Wrong word order when clause comes first."
+        ],
+        "english_test": [
+          "I eat before I leave.",
+          "She studies before she sleeps.",
+          "We talk before we decide.",
+          "He calls before he arrives.",
+          "They plan before they act."
+        ],
+        "persian_test": [
+          "قبل از اینکه بروم غذا می‌خورم.",
+          "قبل از خواب درس می‌خواند.",
+          "قبل از تصمیم گرفتن صحبت می‌کنیم.",
+          "قبل از رسیدن تماس می‌گیرد.",
+          "قبل از عمل کردن برنامه‌ریزی می‌کنند."
+        ]
+      },
+      {
+        "topic": "während (gleichzeitig)",
+        "description": "'Während' is a subordinating conjunction used to express that two actions happen at the same time (while / during). The verb goes to the end of the clause.",
+        "examples": [
+          {
+            "de": "Ich höre Musik, während ich arbeite.",
+            "en": "I listen to music while I work."
+          },
+          {
+            "de": "Sie liest, während er kocht.",
+            "en": "She reads while he cooks."
+          },
+          {
+            "de": "Wir sprechen, während wir gehen.",
+            "en": "We talk while we walk."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting verb-final position.",
+          "Confusing 'während' (time) with contrast meaning in higher levels.",
+          "Incorrect tense consistency between clauses.",
+          "Using wrong conjunction for simultaneous actions."
+        ],
+        "english_test": [
+          "I listen to music while I study.",
+          "She talks while she walks.",
+          "We eat while we watch TV.",
+          "He works while he listens.",
+          "They laugh while they talk."
+        ],
+        "persian_test": [
+          "در حالی که درس می‌خوانم موسیقی گوش می‌دهم.",
+          "در حالی که راه می‌رود صحبت می‌کند.",
+          "در حالی که تلویزیون می‌بینیم غذا می‌خوریم.",
+          "در حالی که کار می‌کند گوش می‌دهد.",
+          "در حالی که صحبت می‌کنند می‌خندند."
+        ]
+      }
+    ],
+    "Unit 9": [
+      {
+        "topic": "Adjektivdeklination – Komparativ",
+        "description": "The comparative form (Komparativ) is used to compare two things. It is formed by adding '-er' to the adjective (e.g., groß → größer). When used before a noun, it must also take adjective endings depending on article, gender, case, and number.",
+        "examples": [
+          {
+            "de": "Das ist ein größerer Hund.",
+            "en": "That is a bigger dog."
+          },
+          {
+            "de": "Ich habe eine bessere Idee.",
+            "en": "I have a better idea."
+          },
+          {
+            "de": "Er wohnt in einem kleineren Haus.",
+            "en": "He lives in a smaller house."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting adjective endings: ein größer Hund → incorrect.",
+          "Not adding '-er' to form comparative.",
+          "Confusing 'mehr' vs '-er' forms.",
+          "Incorrect umlaut usage (groß → größer, alt → älter)."
+        ],
+        "english_test": [
+          "This is a bigger car.",
+          "She has a better job.",
+          "We live in a smaller house.",
+          "He wants a faster computer.",
+          "They found an easier solution."
+        ],
+        "persian_test": [
+          "این یک ماشین بزرگ‌تر است.",
+          "او یک شغل بهتر دارد.",
+          "ما در یک خانه کوچک‌تر زندگی می‌کنیم.",
+          "او یک کامپیوتر سریع‌تر می‌خواهد.",
+          "آنها یک راه‌حل ساده‌تر پیدا کردند."
+        ]
+      },
+      {
+        "topic": "Adjektivdeklination – Superlativ",
+        "description": "The superlative form (Superlativ) expresses the highest degree (the most). It is formed with 'am + -sten' (e.g., am größten) or used before nouns with endings (e.g., der größte Mann). When used with nouns, adjective endings must be applied correctly.",
+        "examples": [
+          {
+            "de": "Das ist der größte Hund.",
+            "en": "That is the biggest dog."
+          },
+          {
+            "de": "Sie hat die beste Idee.",
+            "en": "She has the best idea."
+          },
+          {
+            "de": "Das ist das interessanteste Buch.",
+            "en": "That is the most interesting book."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'am' form incorrectly with nouns.",
+          "Forgetting adjective endings: der größte Mann → correct, not der größte Mann without ending.",
+          "Confusing comparative and superlative forms.",
+          "Incorrect formation: interessant → am interessantesten (not interessantesten without 'am')."
+        ],
+        "english_test": [
+          "This is the biggest house.",
+          "She has the best idea.",
+          "He is the fastest runner.",
+          "This is the most interesting book.",
+          "They chose the easiest way."
+        ],
+        "persian_test": [
+          "این بزرگ‌ترین خانه است.",
+          "او بهترین ایده را دارد.",
+          "او سریع‌ترین دونده است.",
+          "این جالب‌ترین کتاب است.",
+          "آنها ساده‌ترین راه را انتخاب کردند."
+        ]
+      }
+    ],
+    "Unit 10": [
+      {
+        "topic": "Irreale Wünsche – Konjunktiv II Vergangenheit",
+        "description": "Konjunktiv II Vergangenheit is used to express unreal wishes about the past (things that did not happen). It is formed with 'hätte' or 'wäre' + Partizip II. It often expresses regret or criticism. Common particles like 'doch', 'nur', or 'bloß' are often used to add emotional emphasis.",
+        "examples": [
+          {
+            "de": "Hätte ich mehr gelernt, hätte ich die Prüfung bestanden.",
+            "en": "If I had studied more, I would have passed the exam."
+          },
+          {
+            "de": "Wäre ich früher gegangen, hätte ich den Zug erreicht.",
+            "en": "If I had left earlier, I would have caught the train."
+          },
+          {
+            "de": "Hätten wir das gewusst, hätten wir anders entschieden.",
+            "en": "If we had known that, we would have decided differently."
+          }
+        ],
+        "common_mistakes": [
+          "Using Präsens instead of Vergangenheit (hätte + Partizip II).",
+          "Forgetting the second verb at the end (Partizip II).",
+          "Confusing 'hätte' and 'wäre' (sein verbs require 'wäre').",
+          "Using 'wenn' incorrectly or forgetting it when needed.",
+          "Mixing real and unreal conditions."
+        ],
+        "english_test": [
+          "If I had studied more, I would have passed.",
+          "If she had come earlier, she would have seen him.",
+          "If we had known, we would have helped.",
+          "If he had worked harder, he would have succeeded.",
+          "If they had left earlier, they would have arrived on time."
+        ],
+        "persian_test": [
+          "اگر بیشتر درس خوانده بودم، قبول می‌شدم.",
+          "اگر او زودتر آمده بود، او را می‌دید.",
+          "اگر می‌دانستیم، کمک می‌کردیم.",
+          "اگر او بیشتر کار کرده بود، موفق می‌شد.",
+          "اگر آنها زودتر رفته بودند، به موقع می‌رسیدند."
+        ]
+      }
+    ],
+    "Unit 11": [
+      {
+        "topic": "Plusquamperfekt (hatte / war + Partizip II)",
+        "description": "The Plusquamperfekt (past perfect) is used to describe an action that happened before another action in the past. It is formed with 'hatte' or 'war' + Partizip II. 'Hatte' is used with most verbs, and 'war' is used with verbs of movement or change of state.",
+        "examples": [
+          {
+            "de": "Ich hatte gegessen, bevor er kam.",
+            "en": "I had eaten before he came."
+          },
+          {
+            "de": "Er war gegangen, bevor ich angekommen bin.",
+            "en": "He had left before I arrived."
+          },
+          {
+            "de": "Wir hatten das Buch gelesen, bevor wir den Film sahen.",
+            "en": "We had read the book before we watched the movie."
+          }
+        ],
+        "common_mistakes": [
+          "Using Perfekt instead of Plusquamperfekt when two past actions are involved.",
+          "Using 'hatte' instead of 'war' for movement verbs (gehen, kommen, fahren).",
+          "Forgetting Partizip II at the end.",
+          "Mixing time order incorrectly."
+        ],
+        "english_test": [
+          "I had finished my homework before I went out.",
+          "She had already eaten when I arrived.",
+          "We had seen the movie before.",
+          "He had left before she came.",
+          "They had learned German before they moved."
+        ],
+        "persian_test": [
+          "من قبل از اینکه بیرون بروم تکالیفم را انجام داده بودم.",
+          "او قبل از رسیدن من غذا خورده بود.",
+          "ما قبلاً آن فیلم را دیده بودیم.",
+          "او قبل از آمدن او رفته بود.",
+          "آنها قبل از نقل مکان آلمانی یاد گرفته بودند."
+        ]
+      },
+      {
+        "topic": "nachdem",
+        "description": "'Nachdem' is a subordinating conjunction used to describe that one action happens after another action. It connects two past events, and usually one clause uses Plusquamperfekt while the other uses Präteritum or Perfekt. The verb goes to the end of the subordinate clause.",
+        "examples": [
+          {
+            "de": "Nachdem ich gegessen hatte, ging ich spazieren.",
+            "en": "After I had eaten, I went for a walk."
+          },
+          {
+            "de": "Er begann zu arbeiten, nachdem er angekommen war.",
+            "en": "He started working after he had arrived."
+          },
+          {
+            "de": "Nachdem wir das Buch gelesen hatten, sahen wir den Film.",
+            "en": "After we had read the book, we watched the movie."
+          }
+        ],
+        "common_mistakes": [
+          "Using the same tense in both clauses (instead of Plusquamperfekt + past).",
+          "Forgetting verb goes to the end in the 'nachdem' clause.",
+          "Confusing 'nachdem' with 'bevor'.",
+          "Wrong word order when subordinate clause comes first."
+        ],
+        "english_test": [
+          "After I had finished, I went home.",
+          "After she had studied, she relaxed.",
+          "After we had eaten, we left.",
+          "After he had arrived, he called.",
+          "After they had worked, they rested."
+        ],
+        "persian_test": [
+          "بعد از اینکه کارم را تمام کرده بودم به خانه رفتم.",
+          "بعد از اینکه درس خوانده بود استراحت کرد.",
+          "بعد از اینکه غذا خورده بودیم رفتیم.",
+          "بعد از اینکه رسیده بود تماس گرفت.",
+          "بعد از اینکه کار کرده بودند استراحت کردند."
+        ]
+      }
+    ],
+    "Unit 12": [
+      {
+        "topic": "Genitiv",
+        "description": "The genitive case (Genitiv) is used to show possession or relationships (similar to 'of' or apostrophe-s in English). It answers the question 'Wessen?' (whose?). In German, the genitive often changes the article and sometimes adds -s or -es to masculine and neuter nouns.",
+        "examples": [
+          {
+            "de": "Das ist das Auto des Mannes.",
+            "en": "That is the man's car."
+          },
+          {
+            "de": "Die Farbe der Tasche ist schön.",
+            "en": "The color of the bag is beautiful."
+          },
+          {
+            "de": "Das Ende des Films war traurig.",
+            "en": "The end of the movie was sad."
+          }
+        ],
+        "common_mistakes": [
+          "Using Dativ instead of Genitiv (very common in spoken German).",
+          "Forgetting to add -s or -es to masculine/neuter nouns.",
+          "Using wrong article forms (des, der).",
+          "Confusing Genitiv with possessive pronouns."
+        ],
+        "english_test": [
+          "This is the man's car.",
+          "The door of the house is open.",
+          "The end of the story is sad.",
+          "The name of the student is here.",
+          "The color of the car is red."
+        ],
+        "persian_test": [
+          "این ماشین آن مرد است.",
+          "درِ خانه باز است.",
+          "پایان داستان غمگین است.",
+          "نام دانشجو اینجاست.",
+          "رنگ ماشین قرمز است."
+        ]
+      },
+      {
+        "topic": "trotz + Genitiv",
+        "description": "'Trotz' is a preposition meaning 'despite' or 'in spite of'. It is normally used with the genitive case, especially in formal German.",
+        "examples": [
+          {
+            "de": "Trotz des Regens gehen wir spazieren.",
+            "en": "Despite the rain, we go for a walk."
+          },
+          {
+            "de": "Trotz seiner Krankheit arbeitet er.",
+            "en": "Despite his illness, he works."
+          },
+          {
+            "de": "Trotz der Probleme bleiben sie ruhig.",
+            "en": "Despite the problems, they remain calm."
+          }
+        ],
+        "common_mistakes": [
+          "Using Dativ instead of Genitiv (trotz dem Regen – informal but common).",
+          "Wrong article declension (des/der).",
+          "Confusing 'trotz' with 'obwohl'.",
+          "Incorrect word order after using 'trotz'."
+        ],
+        "english_test": [
+          "Despite the rain, we go out.",
+          "Despite his illness, he works.",
+          "Despite the problems, they stay calm.",
+          "Despite the difficulty, she continues.",
+          "Despite the cold, we walk."
+        ],
+        "persian_test": [
+          "با وجود باران بیرون می‌رویم.",
+          "با وجود بیماری‌اش کار می‌کند.",
+          "با وجود مشکلات آرام می‌مانند.",
+          "با وجود سختی ادامه می‌دهد.",
+          "با وجود سرما راه می‌رویم."
+        ]
+      },
+      {
+        "topic": "Adjektivdeklination im Genitiv",
+        "description": "When adjectives are used in the genitive case, they take specific endings depending on the article. In most cases, adjectives take the ending '-en' after definite and indefinite articles in genitive.",
+        "examples": [
+          {
+            "de": "Das ist das Haus eines alten Mannes.",
+            "en": "That is the house of an old man."
+          },
+          {
+            "de": "Die Meinung der jungen Frau ist interessant.",
+            "en": "The opinion of the young woman is interesting."
+          },
+          {
+            "de": "Die Farbe des neuen Autos gefällt mir.",
+            "en": "I like the color of the new car."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting '-en' ending for adjectives in genitive.",
+          "Mixing nominative endings with genitive.",
+          "Incorrect article-adjective combinations.",
+          "Avoiding genitive completely due to complexity."
+        ],
+        "english_test": [
+          "The house of an old man is big.",
+          "The opinion of the young woman is interesting.",
+          "The color of the new car is nice.",
+          "The work of the famous artist is valuable.",
+          "The name of the small child is unknown."
+        ],
+        "persian_test": [
+          "خانه یک مرد پیر بزرگ است.",
+          "نظر زن جوان جالب است.",
+          "رنگ ماشین جدید زیباست.",
+          "کار هنرمند معروف ارزشمند است.",
+          "نام کودک کوچک مشخص نیست."
+        ]
+      }
+    ]
+  },
+  "B1.2": {
+    "Unit 13": [
+      {
+        "topic": "Konnektoren und Adverbien – Gründe und Folgen",
+        "description": "This topic focuses on expressing cause (reason) and consequence (result). German uses both conjunctions (weil, denn) and adverbs (deshalb, deswegen, darum, daher) to connect ideas logically.",
+        "examples": [
+          {
+            "de": "Ich bleibe zu Hause, weil ich krank bin.",
+            "en": "I stay at home because I am sick."
+          },
+          {
+            "de": "Ich bin krank, deshalb bleibe ich zu Hause.",
+            "en": "I am sick, therefore I stay at home."
+          },
+          {
+            "de": "Er hat viel gelernt, daher hat er die Prüfung bestanden.",
+            "en": "He studied a lot, therefore he passed the exam."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing conjunctions (weil, denn) with adverbs (deshalb, deswegen).",
+          "Wrong word order after adverbs (verb must be in position 2).",
+          "Using 'weil' with main clause structure instead of subordinate clause.",
+          "Repeating cause unnecessarily in one sentence."
+        ],
+        "english_test": [
+          "I am tired because I worked a lot.",
+          "She is sick, so she stays home.",
+          "He studied a lot, therefore he passed.",
+          "We are late because of traffic.",
+          "They are happy, so they celebrate."
+        ],
+        "persian_test": [
+          "من خسته‌ام چون زیاد کار کردم.",
+          "او بیمار است، بنابراین در خانه می‌ماند.",
+          "او زیاد درس خواند، بنابراین قبول شد.",
+          "ما به خاطر ترافیک دیر کردیم.",
+          "آنها خوشحال هستند، بنابراین جشن می‌گیرند."
+        ]
+      },
+      {
+        "topic": "Adverbien: deshalb / deswegen / darum / daher",
+        "description": "These adverbs express consequence (result). They are used in main clauses and usually take position 1, meaning the verb comes immediately after them.",
+        "examples": [
+          {
+            "de": "Es regnet, deshalb bleibe ich zu Hause.",
+            "en": "It is raining, therefore I stay at home."
+          },
+          {
+            "de": "Ich habe keine Zeit, deswegen komme ich nicht.",
+            "en": "I have no time, so I do not come."
+          },
+          {
+            "de": "Er war müde, darum ging er früh schlafen.",
+            "en": "He was tired, so he went to bed early."
+          }
+        ],
+        "common_mistakes": [
+          "Not placing the verb directly after the adverb.",
+          "Using subordinate clause structure incorrectly.",
+          "Confusing meaning with 'weil'.",
+          "Repeating both 'weil' and 'deshalb' in one sentence unnecessarily."
+        ],
+        "english_test": [
+          "It is cold, so I wear a jacket.",
+          "I have no money, therefore I cannot buy it.",
+          "She is tired, so she sleeps.",
+          "He is busy, therefore he cannot come.",
+          "We are late, so we hurry."
+        ],
+        "persian_test": [
+          "هوا سرد است، بنابراین کت می‌پوشم.",
+          "پول ندارم، بنابراین نمی‌توانم آن را بخرم.",
+          "او خسته است، بنابراین می‌خوابد.",
+          "او مشغول است، بنابراین نمی‌تواند بیاید.",
+          "ما دیر کرده‌ایم، بنابراین عجله می‌کنیم."
+        ]
+      },
+      {
+        "topic": "weil / denn",
+        "description": "'Weil' and 'denn' both mean 'because'. 'Weil' introduces a subordinate clause (verb at the end), while 'denn' connects two main clauses and does not change word order.",
+        "examples": [
+          {
+            "de": "Ich gehe nach Hause, weil ich müde bin.",
+            "en": "I go home because I am tired."
+          },
+          {
+            "de": "Ich gehe nach Hause, denn ich bin müde.",
+            "en": "I go home because I am tired."
+          },
+          {
+            "de": "Sie bleibt zu Hause, weil sie krank ist.",
+            "en": "She stays home because she is sick."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong word order with 'weil'.",
+          "Confusing 'denn' with subordinate clause structure.",
+          "Mixing both in the same sentence incorrectly.",
+          "Overusing 'weil' in formal writing instead of alternatives."
+        ],
+        "english_test": [
+          "I stay home because I am tired.",
+          "She works because she needs money.",
+          "We leave because it is late.",
+          "He studies because he has an exam.",
+          "They rest because they are tired."
+        ],
+        "persian_test": [
+          "در خانه می‌مانم چون خسته‌ام.",
+          "او کار می‌کند چون پول نیاز دارد.",
+          "ما می‌رویم چون دیر شده است.",
+          "او درس می‌خواند چون امتحان دارد.",
+          "آنها استراحت می‌کنند چون خسته هستند."
+        ]
+      },
+      {
+        "topic": "wegen + Genitiv",
+        "description": "'Wegen' is a preposition meaning 'because of'. It is used with the genitive case, especially in formal German. In spoken German, it is often used with dative.",
+        "examples": [
+          {
+            "de": "Wegen des Regens bleibe ich zu Hause.",
+            "en": "Because of the rain, I stay at home."
+          },
+          {
+            "de": "Wegen seiner Krankheit arbeitet er nicht.",
+            "en": "Because of his illness, he does not work."
+          },
+          {
+            "de": "Wegen des Verkehrs sind wir spät.",
+            "en": "Because of the traffic, we are late."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong case (Dativ vs Genitiv).",
+          "Wrong article forms (des, der).",
+          "Confusing 'wegen' with 'weil'.",
+          "Incorrect word order when placed at the beginning."
+        ],
+        "english_test": [
+          "Because of the rain, I stay home.",
+          "Because of his illness, he rests.",
+          "Because of the traffic, we are late.",
+          "Because of the problem, we stop.",
+          "Because of the weather, we cancel."
+        ],
+        "persian_test": [
+          "به خاطر باران در خانه می‌مانم.",
+          "به خاطر بیماری‌اش استراحت می‌کند.",
+          "به خاطر ترافیک دیر کردیم.",
+          "به خاطر مشکل توقف می‌کنیم.",
+          "به خاطر هوا لغو می‌کنیم."
+        ]
+      }
+    ],
+    "Unit 14": [
+      {
+        "topic": "Partizip Präsens als Adjektiv",
+        "description": "The present participle (Partizip Präsens) is formed by adding '-d' to the infinitive (e.g., lernen → lernend). It is used like an adjective and describes an active action (something that is doing something). It must take adjective endings depending on case, gender, and article.",
+        "examples": [
+          {
+            "de": "Der lachende Mann ist mein Freund.",
+            "en": "The laughing man is my friend."
+          },
+          {
+            "de": "Die spielenden Kinder sind laut.",
+            "en": "The children playing are loud."
+          },
+          {
+            "de": "Ein arbeitender Student hat wenig Zeit.",
+            "en": "A working student has little time."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to add '-d' (lernend, not lernen).",
+          "Not using adjective endings after the participle.",
+          "Confusing it with normal adjectives.",
+          "Using it for passive meaning instead of active."
+        ],
+        "english_test": [
+          "The running man is fast.",
+          "The laughing woman is happy.",
+          "The working student is busy.",
+          "The sleeping child is quiet.",
+          "The talking people are loud."
+        ],
+        "persian_test": [
+          "مردی که می‌دود سریع است.",
+          "زنی که می‌خندد خوشحال است.",
+          "دانشجویی که کار می‌کند مشغول است.",
+          "کودکی که می‌خوابد ساکت است.",
+          "افرادی که صحبت می‌کنند پر سر و صدا هستند."
+        ]
+      },
+      {
+        "topic": "Partizip Perfekt als Adjektiv",
+        "description": "The past participle (Partizip Perfekt) can be used as an adjective to describe a completed or passive action. It behaves like an adjective and takes adjective endings.",
+        "examples": [
+          {
+            "de": "Das gekaufte Auto ist neu.",
+            "en": "The purchased car is new."
+          },
+          {
+            "de": "Die geschlossene Tür ist alt.",
+            "en": "The closed door is old."
+          },
+          {
+            "de": "Ein geschriebenes Buch ist interessant.",
+            "en": "A written book is interesting."
+          }
+        ],
+        "common_mistakes": [
+          "Using Partizip Präsens instead of Partizip Perfekt.",
+          "Forgetting adjective endings.",
+          "Confusing active vs passive meaning.",
+          "Wrong participle formation."
+        ],
+        "english_test": [
+          "The closed door is locked.",
+          "The written text is long.",
+          "The finished project is good.",
+          "The broken car is old.",
+          "The opened window is cold."
+        ],
+        "persian_test": [
+          "درِ بسته قفل است.",
+          "متن نوشته شده طولانی است.",
+          "پروژه تمام شده خوب است.",
+          "ماشین خراب قدیمی است.",
+          "پنجره باز شده سرد است."
+        ]
+      }
+    ],
+    "Unit 15": [
+      {
+        "topic": "sowohl … als auch",
+        "description": "'Sowohl … als auch' is a two-part conjunction used to connect two equal elements (both … and). It can connect nouns, verbs, adjectives, or even clauses. The sentence structure stays like a normal main clause.",
+        "examples": [
+          {
+            "de": "Er spricht sowohl Deutsch als auch Englisch.",
+            "en": "He speaks both German and English."
+          },
+          {
+            "de": "Sie ist sowohl freundlich als auch hilfsbereit.",
+            "en": "She is both friendly and helpful."
+          },
+          {
+            "de": "Wir besuchen sowohl Berlin als auch München.",
+            "en": "We visit both Berlin and Munich."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting the second part 'als auch'.",
+          "Using different grammatical structures on both sides.",
+          "Incorrect word order (it stays a main clause).",
+          "Mixing it with 'nicht nur … sondern auch'."
+        ],
+        "english_test": [
+          "He speaks both German and English.",
+          "She is both smart and kind.",
+          "We visit both cities.",
+          "They eat both meat and vegetables.",
+          "I like both coffee and tea."
+        ],
+        "persian_test": [
+          "او هم آلمانی و هم انگلیسی صحبت می‌کند.",
+          "او هم باهوش و هم مهربان است.",
+          "ما هر دو شهر را بازدید می‌کنیم.",
+          "آنها هم گوشت و هم سبزیجات می‌خورند.",
+          "من هم قهوه و هم چای دوست دارم."
+        ]
+      },
+      {
+        "topic": "nicht nur … sondern auch",
+        "description": "'Nicht nur … sondern auch' is used to emphasize that something is not only one thing but also another (not only … but also). It adds stronger emphasis than 'sowohl … als auch'.",
+        "examples": [
+          {
+            "de": "Er spricht nicht nur Deutsch, sondern auch Englisch.",
+            "en": "He speaks not only German but also English."
+          },
+          {
+            "de": "Sie ist nicht nur intelligent, sondern auch fleißig.",
+            "en": "She is not only intelligent but also hardworking."
+          },
+          {
+            "de": "Wir lernen nicht nur Grammatik, sondern auch Wortschatz.",
+            "en": "We learn not only grammar but also vocabulary."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'sondern auch'.",
+          "Using 'aber' instead of 'sondern'.",
+          "Incorrect parallel structure between both parts.",
+          "Wrong punctuation (comma before 'sondern')."
+        ],
+        "english_test": [
+          "He is not only smart but also kind.",
+          "She speaks not only German but also French.",
+          "We learn not only grammar but also vocabulary.",
+          "They are not only fast but also strong.",
+          "I like not only coffee but also tea."
+        ],
+        "persian_test": [
+          "او نه تنها باهوش بلکه مهربان هم هست.",
+          "او نه تنها آلمانی بلکه فرانسوی هم صحبت می‌کند.",
+          "ما نه تنها گرامر بلکه لغات هم یاد می‌گیریم.",
+          "آنها نه تنها سریع بلکه قوی هم هستند.",
+          "من نه تنها قهوه بلکه چای هم دوست دارم."
+        ]
+      }
+    ],
+    "Unit 16": [
+      {
+        "topic": "nicht brauchen + zu",
+        "description": "'Nicht brauchen + zu + Infinitiv' is used to express that something is not necessary (do not need to). It behaves like a modal verb and is often used in spoken and written German.",
+        "examples": [
+          {
+            "de": "Du brauchst heute nicht zu arbeiten.",
+            "en": "You do not need to work today."
+          },
+          {
+            "de": "Ich brauche das nicht zu machen.",
+            "en": "I do not need to do that."
+          },
+          {
+            "de": "Wir brauchen uns keine Sorgen zu machen.",
+            "en": "We do not need to worry."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'zu' before the infinitive.",
+          "Using 'müssen nicht' instead of 'nicht brauchen' (different meaning).",
+          "Incorrect word order (placing infinitive not at the end).",
+          "Using it like a normal verb instead of modal-like structure."
+        ],
+        "english_test": [
+          "You do not need to go.",
+          "I do not need to work today.",
+          "We do not need to worry.",
+          "He does not need to come.",
+          "They do not need to study."
+        ],
+        "persian_test": [
+          "تو لازم نیست بروی.",
+          "من لازم نیست امروز کار کنم.",
+          "ما لازم نیست نگران باشیم.",
+          "او لازم نیست بیاید.",
+          "آنها لازم نیست درس بخوانند."
+        ]
+      },
+      {
+        "topic": "nur brauchen + zu",
+        "description": "'Nur brauchen + zu + Infinitiv' means 'only need to' and expresses that something is simple or requires just one action. It emphasizes minimal effort.",
+        "examples": [
+          {
+            "de": "Du brauchst nur zu fragen.",
+            "en": "You only need to ask."
+          },
+          {
+            "de": "Man braucht nur zu klicken.",
+            "en": "One only needs to click."
+          },
+          {
+            "de": "Ich brauche nur anzurufen.",
+            "en": "I only need to call."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'zu'.",
+          "Using wrong verb position.",
+          "Confusing with 'nicht brauchen'.",
+          "Not placing separable verb correctly (anzurufen, not zu anrufen)."
+        ],
+        "english_test": [
+          "You only need to ask.",
+          "He only needs to call.",
+          "We only need to try.",
+          "They only need to click.",
+          "I only need to wait."
+        ],
+        "persian_test": [
+          "تو فقط لازم است بپرسی.",
+          "او فقط لازم است تماس بگیرد.",
+          "ما فقط لازم است تلاش کنیم.",
+          "آنها فقط لازم است کلیک کنند.",
+          "من فقط لازم است صبر کنم."
+        ]
+      }
+    ],
+    "Unit 17": [
+      {
+        "topic": "es gibt",
+        "description": "'Es gibt' means 'there is / there are' and is always used with the accusative case. It is used to express existence or availability of something.",
+        "examples": [
+          {
+            "de": "Es gibt viele Restaurants in der Stadt.",
+            "en": "There are many restaurants in the city."
+          },
+          {
+            "de": "Es gibt ein Problem.",
+            "en": "There is a problem."
+          },
+          {
+            "de": "Es gibt keinen Grund zur Sorge.",
+            "en": "There is no reason to worry."
+          }
+        ],
+        "common_mistakes": [
+          "Using nominative instead of accusative.",
+          "Confusing 'es gibt' with 'sein'.",
+          "Forgetting correct article endings (ein → einen).",
+          "Using 'es gibt' with plural incorrectly."
+        ],
+        "english_test": [
+          "There is a problem.",
+          "There are many people here.",
+          "There is no solution.",
+          "There are several options.",
+          "There is a mistake."
+        ],
+        "persian_test": [
+          "یک مشکل وجود دارد.",
+          "افراد زیادی اینجا هستند.",
+          "هیچ راه‌حلی وجود ندارد.",
+          "چندین گزینه وجود دارد.",
+          "یک اشتباه وجود دارد."
+        ]
+      },
+      {
+        "topic": "es ist …",
+        "description": "'Es ist' is used in general statements, opinions, and descriptions. It often introduces an adjective or expression and can be followed by an infinitive clause.",
+        "examples": [
+          {
+            "de": "Es ist wichtig, Deutsch zu lernen.",
+            "en": "It is important to learn German."
+          },
+          {
+            "de": "Es ist kalt draußen.",
+            "en": "It is cold outside."
+          },
+          {
+            "de": "Es ist schwer, das zu verstehen.",
+            "en": "It is difficult to understand that."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to use 'es' in impersonal sentences.",
+          "Confusing with 'das ist'.",
+          "Incorrect infinitive structure after 'es ist'.",
+          "Wrong word order in extended sentences."
+        ],
+        "english_test": [
+          "It is important to learn.",
+          "It is cold today.",
+          "It is easy to understand.",
+          "It is difficult to decide.",
+          "It is necessary to work."
+        ],
+        "persian_test": [
+          "مهم است یاد بگیریم.",
+          "امروز هوا سرد است.",
+          "فهمیدن آن آسان است.",
+          "تصمیم گرفتن سخت است.",
+          "کار کردن لازم است."
+        ]
+      },
+      {
+        "topic": "es regnet",
+        "description": "'Es regnet' is an example of an impersonal verb. In German, weather expressions require 'es' as a formal subject, even though it has no real meaning.",
+        "examples": [
+          {
+            "de": "Es regnet heute.",
+            "en": "It is raining today."
+          },
+          {
+            "de": "Es schneit im Winter.",
+            "en": "It snows in winter."
+          },
+          {
+            "de": "Es ist sonnig.",
+            "en": "It is sunny."
+          }
+        ],
+        "common_mistakes": [
+          "Omitting 'es' (incorrect in German).",
+          "Trying to translate literally from other languages.",
+          "Using wrong verb forms for weather expressions.",
+          "Confusing 'es' with real subjects."
+        ],
+        "english_test": [
+          "It is raining.",
+          "It is snowing.",
+          "It is sunny.",
+          "It is windy.",
+          "It is cold."
+        ],
+        "persian_test": [
+          "باران می‌بارد.",
+          "برف می‌بارد.",
+          "هوا آفتابی است.",
+          "هوا بادی است.",
+          "هوا سرد است."
+        ]
+      },
+      {
+        "topic": "es fällt mir schwer",
+        "description": "'Es fällt mir schwer' is used to express that something is difficult for someone. It usually takes a dative pronoun (mir, dir, ihm) and an infinitive clause.",
+        "examples": [
+          {
+            "de": "Es fällt mir schwer, früh aufzustehen.",
+            "en": "It is difficult for me to get up early."
+          },
+          {
+            "de": "Es fällt ihm schwer, Deutsch zu lernen.",
+            "en": "It is hard for him to learn German."
+          },
+          {
+            "de": "Es fällt uns schwer, uns zu konzentrieren.",
+            "en": "It is difficult for us to concentrate."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong case (should be dative: mir, dir).",
+          "Forgetting infinitive structure with 'zu'.",
+          "Incorrect word order.",
+          "Translating directly from English incorrectly."
+        ],
+        "english_test": [
+          "It is hard for me to study.",
+          "It is difficult for him to understand.",
+          "It is hard for us to focus.",
+          "It is difficult for her to decide.",
+          "It is hard for them to learn."
+        ],
+        "persian_test": [
+          "برای من سخت است درس بخوانم.",
+          "برای او سخت است بفهمد.",
+          "برای ما سخت است تمرکز کنیم.",
+          "برای او سخت است تصمیم بگیرد.",
+          "برای آنها سخت است یاد بگیرند."
+        ]
+      },
+      {
+        "topic": "es geht mir gut",
+        "description": "'Es geht mir gut' is used to describe how someone is feeling. It uses the dative case and expresses general well-being or condition.",
+        "examples": [
+          {
+            "de": "Es geht mir gut.",
+            "en": "I am doing well."
+          },
+          {
+            "de": "Es geht ihm nicht gut.",
+            "en": "He is not doing well."
+          },
+          {
+            "de": "Wie geht es dir?",
+            "en": "How are you?"
+          }
+        ],
+        "common_mistakes": [
+          "Using nominative instead of dative (ich instead of mir).",
+          "Translating directly as 'I go well'.",
+          "Forgetting 'es' at the beginning.",
+          "Confusing with 'sein' (ich bin gut)."
+        ],
+        "english_test": [
+          "I am doing well.",
+          "He is not doing well.",
+          "How are you?",
+          "She is fine.",
+          "We are okay."
+        ],
+        "persian_test": [
+          "حال من خوب است.",
+          "حال او خوب نیست.",
+          "حالت چطور است؟",
+          "حال او خوب است.",
+          "حال ما خوب است."
+        ]
+      }
+    ],
+    "Unit 18": [
+      {
+        "topic": "entweder … oder",
+        "description": "'Entweder … oder' is a two-part conjunction used to present a choice between two alternatives (either … or). Both parts must be grammatically parallel.",
+        "examples": [
+          {
+            "de": "Du kannst entweder zu Hause bleiben oder mitkommen.",
+            "en": "You can either stay at home or come along."
+          },
+          {
+            "de": "Entweder wir gehen ins Kino oder wir bleiben zu Hause.",
+            "en": "Either we go to the cinema or we stay at home."
+          },
+          {
+            "de": "Er isst entweder Fleisch oder Fisch.",
+            "en": "He eats either meat or fish."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'oder'.",
+          "Using non-parallel structures.",
+          "Incorrect word order in main clause.",
+          "Using more than two options (structure is for two choices)."
+        ],
+        "english_test": [
+          "You can either stay or go.",
+          "Either we eat now or later.",
+          "He chooses either coffee or tea.",
+          "They will either travel or stay.",
+          "I will either call or write."
+        ],
+        "persian_test": [
+          "یا می‌مانی یا می‌روی.",
+          "یا الان غذا می‌خوریم یا بعداً.",
+          "او یا قهوه می‌خورد یا چای.",
+          "آنها یا سفر می‌کنند یا می‌مانند.",
+          "من یا تماس می‌گیرم یا می‌نویسم."
+        ]
+      },
+      {
+        "topic": "weder … noch",
+        "description": "'Weder … noch' is used to express that neither of two options is true (neither … nor). It negates both elements.",
+        "examples": [
+          {
+            "de": "Er spricht weder Deutsch noch Englisch.",
+            "en": "He speaks neither German nor English."
+          },
+          {
+            "de": "Wir gehen weder ins Kino noch ins Restaurant.",
+            "en": "We go neither to the cinema nor to the restaurant."
+          },
+          {
+            "de": "Sie ist weder müde noch krank.",
+            "en": "She is neither tired nor sick."
+          }
+        ],
+        "common_mistakes": [
+          "Adding 'nicht' unnecessarily.",
+          "Incorrect word order.",
+          "Not keeping parallel structure.",
+          "Confusing with 'oder'."
+        ],
+        "english_test": [
+          "He speaks neither German nor English.",
+          "She is neither tired nor sick.",
+          "We go neither here nor there.",
+          "They eat neither meat nor fish.",
+          "I want neither coffee nor tea."
+        ],
+        "persian_test": [
+          "او نه آلمانی صحبت می‌کند نه انگلیسی.",
+          "او نه خسته است نه بیمار.",
+          "ما نه اینجا می‌رویم نه آنجا.",
+          "آنها نه گوشت می‌خورند نه ماهی.",
+          "من نه قهوه می‌خواهم نه چای."
+        ]
+      },
+      {
+        "topic": "zwar … aber",
+        "description": "'Zwar … aber' is used to express contrast (it is true that … but …). The first part introduces a fact, and the second part introduces a contrasting idea.",
+        "examples": [
+          {
+            "de": "Es ist zwar kalt, aber ich gehe spazieren.",
+            "en": "It is cold, but I still go for a walk."
+          },
+          {
+            "de": "Er ist zwar müde, aber er arbeitet.",
+            "en": "He is tired, but he works."
+          },
+          {
+            "de": "Das Buch ist zwar interessant, aber sehr lang.",
+            "en": "The book is interesting, but very long."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'aber'.",
+          "Using wrong word order after 'aber'.",
+          "Confusing with 'obwohl'.",
+          "Using both parts in the same clause incorrectly."
+        ],
+        "english_test": [
+          "It is cold, but I go out.",
+          "He is tired, but he works.",
+          "She is young, but very smart.",
+          "The book is long, but interesting.",
+          "It is expensive, but good."
+        ],
+        "persian_test": [
+          "هوا سرد است، اما بیرون می‌روم.",
+          "او خسته است، اما کار می‌کند.",
+          "او جوان است، اما خیلی باهوش است.",
+          "کتاب طولانی است، اما جالب است.",
+          "گران است، اما خوب است."
+        ]
+      },
+      {
+        "topic": "Wortbildung – Nominalisierung",
+        "description": "Nominalization (Nominalisierung) means turning verbs or adjectives into nouns. These nouns are always capitalized and often used in formal or written German.",
+        "examples": [
+          {
+            "de": "Das Lesen ist wichtig.",
+            "en": "Reading is important."
+          },
+          {
+            "de": "Beim Essen sprechen wir nicht.",
+            "en": "We do not talk while eating."
+          },
+          {
+            "de": "Das Lernen macht Spaß.",
+            "en": "Learning is fun."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting capitalization.",
+          "Using verb instead of noun form.",
+          "Wrong article usage (das for nominalized verbs).",
+          "Confusing gerund forms with infinitive."
+        ],
+        "english_test": [
+          "Reading is important.",
+          "Learning takes time.",
+          "Writing is difficult.",
+          "Speaking is useful.",
+          "Listening helps a lot."
+        ],
+        "persian_test": [
+          "خواندن مهم است.",
+          "یادگیری زمان می‌برد.",
+          "نوشتن سخت است.",
+          "صحبت کردن مفید است.",
+          "گوش دادن خیلی کمک می‌کند."
+        ]
+      }
+    ],
+    "Unit 19": [
+      {
+        "topic": "je … desto / umso",
+        "description": "'Je … desto / umso' is used to express proportional relationships (the more … the more/less …). It connects two clauses: the first clause with 'je' (subordinate clause, verb at the end) and the second clause with 'desto' or 'umso' (main clause, verb in position 2).",
+        "examples": [
+          {
+            "de": "Je mehr ich lerne, desto besser verstehe ich Deutsch.",
+            "en": "The more I learn, the better I understand German."
+          },
+          {
+            "de": "Je länger ich arbeite, desto müder werde ich.",
+            "en": "The longer I work, the more tired I become."
+          },
+          {
+            "de": "Je früher wir gehen, umso besser ist es.",
+            "en": "The earlier we go, the better it is."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong word order in the 'je' clause (verb must go to the end).",
+          "Forgetting comparative form (mehr, besser, schneller, etc.).",
+          "Using 'je' without 'desto/umso'.",
+          "Mixing both clauses incorrectly.",
+          "Using normal sentence order instead of subordinate structure."
+        ],
+        "english_test": [
+          "The more I study, the better I understand.",
+          "The faster you run, the sooner you arrive.",
+          "The more he works, the more money he earns.",
+          "The less you sleep, the more tired you feel.",
+          "The earlier we start, the better it is."
+        ],
+        "persian_test": [
+          "هرچه بیشتر درس بخوانم، بهتر می‌فهمم.",
+          "هرچه سریع‌تر بدوی، زودتر می‌رسی.",
+          "هرچه بیشتر کار کند، پول بیشتری درمی‌آورد.",
+          "هرچه کمتر بخوابی، خسته‌تر می‌شوی.",
+          "هرچه زودتر شروع کنیم، بهتر است."
+        ]
+      }
+    ],
+    "Unit 20": [
+      {
+        "topic": "indem (Methode)",
+        "description": "'Indem' is a subordinating conjunction used to express the method or means by which something happens (by doing something). It answers the question 'How?'. The verb goes to the end of the clause.",
+        "examples": [
+          {
+            "de": "Ich lerne Deutsch, indem ich jeden Tag übe.",
+            "en": "I learn German by practicing every day."
+          },
+          {
+            "de": "Er verbessert sich, indem er viel liest.",
+            "en": "He improves by reading a lot."
+          },
+          {
+            "de": "Wir sparen Geld, indem wir weniger ausgeben.",
+            "en": "We save money by spending less."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong word order (verb must be at the end).",
+          "Confusing 'indem' with 'weil' (method vs reason).",
+          "Using it for result instead of method.",
+          "Incorrect sentence connection."
+        ],
+        "english_test": [
+          "I learn by practicing.",
+          "She improves by studying.",
+          "We save money by cooking at home.",
+          "He learns by reading books.",
+          "They succeed by working hard."
+        ],
+        "persian_test": [
+          "من با تمرین یاد می‌گیرم.",
+          "او با درس خواندن پیشرفت می‌کند.",
+          "ما با آشپزی در خانه پول پس‌انداز می‌کنیم.",
+          "او با خواندن کتاب یاد می‌گیرد.",
+          "آنها با سخت کار کردن موفق می‌شوند."
+        ]
+      },
+      {
+        "topic": "sodass (Folge)",
+        "description": "'Sodass' is a subordinating conjunction used to express a result or consequence (so that / as a result). It connects cause and effect, and the verb goes to the end of the clause.",
+        "examples": [
+          {
+            "de": "Er hat viel gelernt, sodass er die Prüfung bestanden hat.",
+            "en": "He studied a lot, so he passed the exam."
+          },
+          {
+            "de": "Es war sehr kalt, sodass wir zu Hause blieben.",
+            "en": "It was very cold, so we stayed at home."
+          },
+          {
+            "de": "Sie hat schnell gearbeitet, sodass sie früher fertig war.",
+            "en": "She worked quickly, so she finished earlier."
+          }
+        ],
+        "common_mistakes": [
+          "Using main clause structure instead of subordinate clause.",
+          "Confusing 'sodass' with 'damit' (result vs purpose).",
+          "Wrong word order (verb must be at the end).",
+          "Using it incorrectly for cause instead of result."
+        ],
+        "english_test": [
+          "He worked hard, so he succeeded.",
+          "It rained, so we stayed home.",
+          "She studied a lot, so she passed.",
+          "They were tired, so they rested.",
+          "We were late, so we hurried."
+        ],
+        "persian_test": [
+          "او زیاد کار کرد، بنابراین موفق شد.",
+          "باران بارید، بنابراین در خانه ماندیم.",
+          "او زیاد درس خواند، بنابراین قبول شد.",
+          "آنها خسته بودند، بنابراین استراحت کردند.",
+          "ما دیر کرده بودیم، بنابراین عجله کردیم."
+        ]
+      }
+    ],
+    "Unit 21": [
+      {
+        "topic": "Lokale Präpositionen",
+        "description": "Local prepositions (lokale Präpositionen) describe position or movement in space. Common ones include 'in', 'auf', 'an', 'unter', 'über', 'zwischen', etc. Some require Dativ (location), others Akkusativ (direction), depending on whether there is movement.",
+        "examples": [
+          {
+            "de": "Das Buch liegt auf dem Tisch.",
+            "en": "The book is lying on the table."
+          },
+          {
+            "de": "Ich gehe in das Zimmer.",
+            "en": "I go into the room."
+          },
+          {
+            "de": "Die Katze sitzt unter dem Tisch.",
+            "en": "The cat sits under the table."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing Dativ (location) and Akkusativ (direction).",
+          "Using wrong preposition (in vs auf vs an).",
+          "Forgetting case changes.",
+          "Mixing position and movement meanings."
+        ],
+        "english_test": [
+          "The book is on the table.",
+          "I go into the room.",
+          "The cat is under the chair.",
+          "He sits on the sofa.",
+          "They walk into the house."
+        ],
+        "persian_test": [
+          "کتاب روی میز است.",
+          "من وارد اتاق می‌شوم.",
+          "گربه زیر صندلی است.",
+          "او روی مبل نشسته است.",
+          "آنها وارد خانه می‌شوند."
+        ]
+      },
+      {
+        "topic": "Temporale Präpositionen",
+        "description": "Temporal prepositions describe time relations. Common examples include 'seit' (since), 'während' (during), 'nach' (after), 'vor' (before). Each preposition requires a specific case, often dative or genitive.",
+        "examples": [
+          {
+            "de": "Seit einem Jahr lerne ich Deutsch.",
+            "en": "I have been learning German for a year."
+          },
+          {
+            "de": "Während des Urlaubs habe ich mich entspannt.",
+            "en": "During the vacation, I relaxed."
+          },
+          {
+            "de": "Nach dem Essen gehe ich spazieren.",
+            "en": "After the meal, I go for a walk."
+          }
+        ],
+        "common_mistakes": [
+          "Using wrong case after prepositions.",
+          "Confusing meanings (nach vs vor).",
+          "Incorrect tense with 'seit'.",
+          "Mixing prepositions incorrectly."
+        ],
+        "english_test": [
+          "I have worked since Monday.",
+          "After the meeting, we go home.",
+          "Before dinner, we talk.",
+          "During the trip, we relaxed.",
+          "Since last year, I live here."
+        ],
+        "persian_test": [
+          "از دوشنبه کار کرده‌ام.",
+          "بعد از جلسه به خانه می‌رویم.",
+          "قبل از شام صحبت می‌کنیم.",
+          "در طول سفر استراحت کردیم.",
+          "از سال گذشته اینجا زندگی می‌کنم."
+        ]
+      },
+      {
+        "topic": "Passiv Präsens mit Modalverben",
+        "description": "The passive voice in present tense with modal verbs is used to express necessity, possibility, or obligation without focusing on the subject. Structure: 'Modalverb + Partizip II + werden'.",
+        "examples": [
+          {
+            "de": "Das Problem muss gelöst werden.",
+            "en": "The problem must be solved."
+          },
+          {
+            "de": "Das Auto kann repariert werden.",
+            "en": "The car can be repaired."
+          },
+          {
+            "de": "Die Aufgabe soll gemacht werden.",
+            "en": "The task should be done."
+          }
+        ],
+        "common_mistakes": [
+          "Wrong word order (Partizip II + werden at the end).",
+          "Forgetting 'werden'.",
+          "Using active voice instead of passive.",
+          "Incorrect modal verb placement."
+        ],
+        "english_test": [
+          "The problem must be solved.",
+          "The car can be repaired.",
+          "The work should be done.",
+          "The task must be completed.",
+          "The house can be built."
+        ],
+        "persian_test": [
+          "مشکل باید حل شود.",
+          "ماشین می‌تواند تعمیر شود.",
+          "کار باید انجام شود.",
+          "وظیفه باید کامل شود.",
+          "خانه می‌تواند ساخته شود."
+        ]
+      }
+    ],
+    "Unit 22": [
+      {
+        "topic": "Passiv Perfekt",
+        "description": "The passive in Perfekt is used to describe completed actions in the past without focusing on who did the action. It is formed with 'sein + Partizip II + worden'.",
+        "examples": [
+          {
+            "de": "Das Problem ist gelöst worden.",
+            "en": "The problem has been solved."
+          },
+          {
+            "de": "Das Haus ist gebaut worden.",
+            "en": "The house has been built."
+          },
+          {
+            "de": "Die Aufgabe ist gemacht worden.",
+            "en": "The task has been done."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'worden' (very common mistake).",
+          "Using 'geworden' instead of 'worden' (wrong in passive).",
+          "Incorrect word order.",
+          "Confusing active and passive structures."
+        ],
+        "english_test": [
+          "The problem has been solved.",
+          "The car has been repaired.",
+          "The work has been completed.",
+          "The house has been built.",
+          "The task has been finished."
+        ],
+        "persian_test": [
+          "مشکل حل شده است.",
+          "ماشین تعمیر شده است.",
+          "کار انجام شده است.",
+          "خانه ساخته شده است.",
+          "وظیفه کامل شده است."
+        ]
+      },
+      {
+        "topic": "Passiv Präteritum",
+        "description": "The passive in Präteritum is used in written German to describe past actions. It is formed with 'wurde + Partizip II'.",
+        "examples": [
+          {
+            "de": "Das Problem wurde gelöst.",
+            "en": "The problem was solved."
+          },
+          {
+            "de": "Das Auto wurde repariert.",
+            "en": "The car was repaired."
+          },
+          {
+            "de": "Die Tür wurde geöffnet.",
+            "en": "The door was opened."
+          }
+        ],
+        "common_mistakes": [
+          "Using Perfekt instead of Präteritum in formal writing.",
+          "Forgetting 'wurde'.",
+          "Incorrect participle usage.",
+          "Mixing tenses incorrectly."
+        ],
+        "english_test": [
+          "The problem was solved.",
+          "The house was built.",
+          "The door was opened.",
+          "The work was finished.",
+          "The car was repaired."
+        ],
+        "persian_test": [
+          "مشکل حل شد.",
+          "خانه ساخته شد.",
+          "در باز شد.",
+          "کار تمام شد.",
+          "ماشین تعمیر شد."
+        ]
+      }
+    ],
+    "Unit 23": [
+      {
+        "topic": "ohne … zu",
+        "description": "'Ohne … zu' is used to express that something happens without another action happening. It is only used when both clauses have the same subject. The structure is: main clause + ohne + zu + infinitive (at the end).",
+        "examples": [
+          {
+            "de": "Er geht, ohne etwas zu sagen.",
+            "en": "He leaves without saying anything."
+          },
+          {
+            "de": "Sie arbeitet, ohne eine Pause zu machen.",
+            "en": "She works without taking a break."
+          },
+          {
+            "de": "Ich gehe, ohne dich zu fragen.",
+            "en": "I leave without asking you."
+          }
+        ],
+        "common_mistakes": [
+          "Using different subjects (not allowed).",
+          "Forgetting 'zu'.",
+          "Wrong word order (infinitive must be at the end).",
+          "Confusing with 'ohne dass'."
+        ],
+        "english_test": [
+          "He leaves without saying goodbye.",
+          "She works without resting.",
+          "I go without asking.",
+          "They eat without talking.",
+          "We leave without noticing."
+        ],
+        "persian_test": [
+          "او بدون خداحافظی می‌رود.",
+          "او بدون استراحت کار می‌کند.",
+          "من بدون پرسیدن می‌روم.",
+          "آنها بدون صحبت غذا می‌خورند.",
+          "ما بدون توجه می‌رویم."
+        ]
+      },
+      {
+        "topic": "statt … zu",
+        "description": "'Statt … zu' is used to express that someone does one thing instead of another. It also requires the same subject in both parts.",
+        "examples": [
+          {
+            "de": "Er spielt, statt zu lernen.",
+            "en": "He plays instead of studying."
+          },
+          {
+            "de": "Sie schaut fern, statt zu arbeiten.",
+            "en": "She watches TV instead of working."
+          },
+          {
+            "de": "Wir gehen spazieren, statt zu Hause zu bleiben.",
+            "en": "We go for a walk instead of staying at home."
+          }
+        ],
+        "common_mistakes": [
+          "Using different subjects.",
+          "Forgetting 'zu'.",
+          "Wrong word order.",
+          "Confusing with 'statt dass'."
+        ],
+        "english_test": [
+          "He plays instead of studying.",
+          "She sleeps instead of working.",
+          "They watch TV instead of reading.",
+          "We go out instead of staying home.",
+          "I eat instead of cooking."
+        ],
+        "persian_test": [
+          "او به جای درس خواندن بازی می‌کند.",
+          "او به جای کار کردن می‌خوابد.",
+          "آنها به جای خواندن تلویزیون می‌بینند.",
+          "ما به جای ماندن در خانه بیرون می‌رویم.",
+          "من به جای آشپزی غذا می‌خورم."
+        ]
+      },
+      {
+        "topic": "ohne dass",
+        "description": "'Ohne dass' is used when the two clauses have different subjects. It introduces a subordinate clause, so the verb goes to the end.",
+        "examples": [
+          {
+            "de": "Er geht, ohne dass ich es weiß.",
+            "en": "He leaves without me knowing it."
+          },
+          {
+            "de": "Sie arbeitet, ohne dass er hilft.",
+            "en": "She works without him helping."
+          },
+          {
+            "de": "Ich gehe, ohne dass du kommst.",
+            "en": "I go without you coming."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'ohne zu' instead of 'ohne dass' when subjects differ.",
+          "Wrong word order (verb must be at the end).",
+          "Forgetting 'dass'.",
+          "Incorrect clause structure."
+        ],
+        "english_test": [
+          "He leaves without me knowing.",
+          "She works without him helping.",
+          "I go without you coming.",
+          "They act without us understanding.",
+          "We leave without them noticing."
+        ],
+        "persian_test": [
+          "او می‌رود بدون اینکه من بدانم.",
+          "او کار می‌کند بدون اینکه او کمک کند.",
+          "من می‌روم بدون اینکه تو بیایی.",
+          "آنها عمل می‌کنند بدون اینکه ما بفهمیم.",
+          "ما می‌رویم بدون اینکه آنها متوجه شوند."
+        ]
+      },
+      {
+        "topic": "statt dass",
+        "description": "'Statt dass' is used when two different subjects are involved and expresses doing one thing instead of another. It introduces a subordinate clause with verb at the end.",
+        "examples": [
+          {
+            "de": "Er spielt, statt dass er lernt.",
+            "en": "He plays instead of studying."
+          },
+          {
+            "de": "Sie schaut fern, statt dass sie arbeitet.",
+            "en": "She watches TV instead of working."
+          },
+          {
+            "de": "Wir gehen spazieren, statt dass wir zu Hause bleiben.",
+            "en": "We go for a walk instead of staying at home."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'statt zu' with different subjects.",
+          "Wrong word order.",
+          "Forgetting 'dass'.",
+          "Mixing clause types."
+        ],
+        "english_test": [
+          "He plays instead of studying.",
+          "She sleeps instead of working.",
+          "They watch TV instead of reading.",
+          "We go out instead of staying home.",
+          "I eat instead of cooking."
+        ],
+        "persian_test": [
+          "او بازی می‌کند به جای اینکه درس بخواند.",
+          "او می‌خوابد به جای اینکه کار کند.",
+          "آنها تلویزیون می‌بینند به جای اینکه بخوانند.",
+          "ما بیرون می‌رویم به جای اینکه در خانه بمانیم.",
+          "من غذا می‌خورم به جای اینکه آشپزی کنم."
+        ]
+      }
+    ],
+    "Unit 24": [
+      {
+        "topic": "um … zu (Absicht – gleiches Subjekt)",
+        "description": "'Um … zu' is used to express purpose (in order to) when both clauses have the same subject. The structure is: main clause + um + zu + infinitive (at the end).",
+        "examples": [
+          {
+            "de": "Ich lerne Deutsch, um in Deutschland zu arbeiten.",
+            "en": "I learn German in order to work in Germany."
+          },
+          {
+            "de": "Er spart Geld, um ein Auto zu kaufen.",
+            "en": "He saves money in order to buy a car."
+          },
+          {
+            "de": "Wir trainieren, um fit zu bleiben.",
+            "en": "We train in order to stay fit."
+          }
+        ],
+        "common_mistakes": [
+          "Using different subjects (not allowed).",
+          "Forgetting 'zu'.",
+          "Wrong word order (infinitive must be at the end).",
+          "Confusing with 'damit'."
+        ],
+        "english_test": [
+          "I study to pass the exam.",
+          "She works to earn money.",
+          "We train to stay healthy.",
+          "He learns to improve.",
+          "They save to travel."
+        ],
+        "persian_test": [
+          "من درس می‌خوانم تا در امتحان قبول شوم.",
+          "او کار می‌کند تا پول دربیاورد.",
+          "ما تمرین می‌کنیم تا سالم بمانیم.",
+          "او یاد می‌گیرد تا پیشرفت کند.",
+          "آنها پس‌انداز می‌کنند تا سفر کنند."
+        ]
+      },
+      {
+        "topic": "damit (Absicht – verschiedene Subjekte)",
+        "description": "'Damit' is used to express purpose when the two clauses have different subjects. It introduces a subordinate clause, so the verb goes to the end.",
+        "examples": [
+          {
+            "de": "Ich lerne Deutsch, damit ich in Deutschland arbeiten kann.",
+            "en": "I learn German so that I can work in Germany."
+          },
+          {
+            "de": "Er spart Geld, damit seine Familie reisen kann.",
+            "en": "He saves money so that his family can travel."
+          },
+          {
+            "de": "Wir sprechen langsam, damit du uns verstehst.",
+            "en": "We speak slowly so that you understand us."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'um … zu' instead of 'damit' with different subjects.",
+          "Wrong word order (verb must be at the end).",
+          "Forgetting 'damit'.",
+          "Mixing clause structures."
+        ],
+        "english_test": [
+          "I speak slowly so that you understand.",
+          "She explains it so that he learns.",
+          "We help so that they succeed.",
+          "He saves money so that his family benefits.",
+          "They study so that they pass."
+        ],
+        "persian_test": [
+          "آهسته صحبت می‌کنم تا تو بفهمی.",
+          "او توضیح می‌دهد تا او یاد بگیرد.",
+          "ما کمک می‌کنیم تا آنها موفق شوند.",
+          "او پول پس‌انداز می‌کند تا خانواده‌اش استفاده کنند.",
+          "آنها درس می‌خوانند تا قبول شوند."
+        ]
+      },
+      {
+        "topic": "als ob + Konjunktiv II",
+        "description": "'Als ob' is used to express unreal comparison (as if). It introduces a subordinate clause, and the verb is typically in Konjunktiv II to show that the situation is not real.",
+        "examples": [
+          {
+            "de": "Er tut, als ob er alles wüsste.",
+            "en": "He acts as if he knew everything."
+          },
+          {
+            "de": "Sie spricht, als ob sie Expertin wäre.",
+            "en": "She speaks as if she were an expert."
+          },
+          {
+            "de": "Er läuft, als ob er keine Zeit hätte.",
+            "en": "He runs as if he had no time."
+          }
+        ],
+        "common_mistakes": [
+          "Using real tense instead of Konjunktiv II.",
+          "Wrong word order (verb must be at the end).",
+          "Confusing with real comparison structures.",
+          "Forgetting subjunctive forms (wäre, hätte, etc.)."
+        ],
+        "english_test": [
+          "He acts as if he knew everything.",
+          "She talks as if she were the boss.",
+          "They behave as if nothing happened.",
+          "He runs as if he were late.",
+          "She looks as if she were tired."
+        ],
+        "persian_test": [
+          "او طوری رفتار می‌کند انگار همه چیز را می‌داند.",
+          "او طوری صحبت می‌کند انگار رئیس است.",
+          "آنها طوری رفتار می‌کنند انگار هیچ اتفاقی نیفتاده.",
+          "او طوری می‌دود انگار دیر کرده.",
+          "او طوری به نظر می‌رسد انگار خسته است."
+        ]
+      }
+    ]
+  },
+  "B2.1": {
+    "Unit 1": [
+      {
+        "topic": "Zweiteilige Konnektoren",
+        "description": "Zweiteilige Konnektoren are two-part connectors used to connect ideas with specific logical functions: enumeration, alternatives, contrast, and restriction. They can appear in different positions in the sentence. In this unit, the main forms are: nicht nur ... sondern auch, sowohl ... als auch, weder ... noch, entweder ... oder, einerseits ... andererseits, and zwar ... aber.",
+        "examples": [
+          {
+            "de": "Wir haben nicht nur zusammen gearbeitet, sondern auch oft telefoniert.",
+            "en": "We not only worked together, but also often talked on the phone."
+          },
+          {
+            "de": "Entweder gehen wir etwas essen oder wir treffen uns zu Hause.",
+            "en": "Either we go out to eat or we meet at home."
+          },
+          {
+            "de": "Einerseits möchte ich ihn treffen, andererseits habe ich keine Zeit.",
+            "en": "On the one hand I would like to meet him, on the other hand I have no time."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting the second part of the connector, for example using 'nicht nur' without 'sondern auch'.",
+          "Mixing two different connector structures incorrectly.",
+          "Using non-parallel grammar after both parts of the connector.",
+          "Wrong word order when the connector is placed at the beginning of the sentence.",
+          "Adding unnecessary negation with 'weder ... noch'."
+        ],
+        "english_test": [
+          "He is not only friendly but also helpful.",
+          "We can either go to the cinema or stay at home.",
+          "She speaks both German and English.",
+          "Neither my brother nor my sister has time.",
+          "On the one hand the job is interesting, on the other hand it is stressful."
+        ],
+        "persian_test": [
+          "او نه تنها باهوش است بلکه سخت‌کوش هم هست.",
+          "ما یا امروز خرید می‌کنیم یا فردا.",
+          "او هم در برلین زندگی کرده و هم در مونیخ.",
+          "نه پدرم و نه مادرم امروز خانه نیستند.",
+          "از یک طرف این آپارتمان زیباست، از طرف دیگر خیلی گران است."
+        ]
+      },
+      {
+        "topic": "Mittelfeld im Hauptsatz",
+        "description": "The Mittelfeld is the part of a German main clause between the conjugated verb in position 2 and the sentence end. When there are several pieces of information, German usually follows the order: temporal, kausal, modal, lokal. This is often remembered as te-ka-mo-lo. The unit also explains the order of Dativ and Akkusativ objects: if both are nouns, Dativ usually comes before Akkusativ; if one object is a pronoun, the pronoun usually comes first; if both are pronouns, Akkusativ comes before Dativ.",
+        "examples": [
+          {
+            "de": "Milgram machte bereits 1967 mit 60 Freiwilligen in den USA ein Experiment.",
+            "en": "Milgram conducted an experiment with 60 volunteers in the USA as early as 1967."
+          },
+          {
+            "de": "Facebook hat den Nutzern mögliche Freunde vorgeschlagen.",
+            "en": "Facebook suggested possible friends to the users."
+          },
+          {
+            "de": "Facebook hat sie ihnen vorgeschlagen.",
+            "en": "Facebook suggested them to them."
+          }
+        ],
+        "common_mistakes": [
+          "Putting time, reason, manner, and place in random order instead of using te-ka-mo-lo.",
+          "Placing long information before short information unnecessarily.",
+          "Using Akkusativ before Dativ when both objects are nouns.",
+          "Forgetting that pronouns usually come before nouns.",
+          "Forgetting that when both objects are pronouns, Akkusativ comes before Dativ."
+        ],
+        "english_test": [
+          "I worked yesterday because of the weather quietly at home.",
+          "She gave the customer the documents.",
+          "She gave them to the customer.",
+          "She gave him the documents.",
+          "She gave them to him."
+        ],
+        "persian_test": [
+          "او دیروز به خاطر جلسه با دقت در دفتر کار کرد.",
+          "من به دوستم یک پیام فرستادم.",
+          "من آن را به دوستم فرستادم.",
+          "من به او یک پیام فرستادم.",
+          "من آن را به او فرستادم."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Nachsilben bei Nomen",
+        "description": "German nouns with the same suffix often have the same grammatical gender. This helps learners recognize articles. In this unit, typical suffixes are grouped by article: masculine suffixes such as -er, -ist, -or; neuter suffixes such as -nis; and feminine suffixes such as -e, -keit, -ion, and -schaft. There are exceptions, so these patterns are helpful but not absolute rules.",
+        "examples": [
+          {
+            "de": "Der Musiker spielt heute Abend im Konzert.",
+            "en": "The musician is playing in the concert tonight."
+          },
+          {
+            "de": "Das Erlebnis war sehr schön.",
+            "en": "The experience was very nice."
+          },
+          {
+            "de": "Die Freundschaft ist mir wichtig.",
+            "en": "The friendship is important to me."
+          }
+        ],
+        "common_mistakes": [
+          "Treating suffix rules as 100% fixed and ignoring exceptions.",
+          "Using the wrong article with common suffixes, for example 'der Diskussion' instead of 'die Diskussion'.",
+          "Forgetting that many nouns ending in -keit are feminine.",
+          "Confusing -er as a noun suffix with comparative adjective endings.",
+          "Not learning exceptions such as die Erlaubnis or der Name."
+        ],
+        "english_test": [
+          "The musician is famous.",
+          "The realist sees the problem clearly.",
+          "The experience was interesting.",
+          "Gratitude is important.",
+          "The discussion was long."
+        ],
+        "persian_test": [
+          "کمدین خیلی خنده‌دار بود.",
+          "نویسنده امروز اینجا نیست.",
+          "این نیاز برای همه مهم است.",
+          "تنهایی می‌تواند سخت باشد.",
+          "آشنایی آنها سال‌ها طول کشید."
+        ]
+      }
+    ],
+    "Unit 2": [
+      {
+        "topic": "Zustandspassiv",
+        "description": "The Zustandspassiv describes the state or result after an action has happened. The focus is not on the action itself, but on the condition that exists afterwards. It is formed with 'sein' + Partizip II. In the present: 'ist/sind + Partizip II'. In the past: 'war/waren + Partizip II'.",
+        "examples": [
+          {
+            "de": "Die Unterlagen sind schon geordnet.",
+            "en": "The documents are already organized."
+          },
+          {
+            "de": "Die Tür ist geschlossen.",
+            "en": "The door is closed."
+          },
+          {
+            "de": "Die Zimmer waren bereits reserviert.",
+            "en": "The rooms had already been reserved."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing Zustandspassiv with Vorgangspassiv: 'Die Tür wird geschlossen' describes the action; 'Die Tür ist geschlossen' describes the state.",
+          "Using 'werden' instead of 'sein' when the focus is on the result.",
+          "Forgetting that Zustandspassiv describes a completed result, not the process.",
+          "Using the wrong form of 'sein' in past or present."
+        ],
+        "english_test": [
+          "The documents are already organized.",
+          "The door is closed.",
+          "The room was cleaned.",
+          "The table is reserved.",
+          "The problem is solved."
+        ],
+        "persian_test": [
+          "مدارک قبلاً مرتب شده‌اند.",
+          "در بسته است.",
+          "اتاق تمیز شده بود.",
+          "میز رزرو شده است.",
+          "مشکل حل شده است."
+        ]
+      },
+      {
+        "topic": "von oder durch in Passivsätzen",
+        "description": "In passive sentences, 'von + Dativ' is used when naming the acting person or institution. 'Durch + Akkusativ' is used when naming a means, instrument, or cause. This distinction is important in formal and written German.",
+        "examples": [
+          {
+            "de": "Das Training wird von einer erfahrenen Therapeutin durchgeführt.",
+            "en": "The training is conducted by an experienced therapist."
+          },
+          {
+            "de": "Stress kann durch solche Übungen schnell abgebaut werden.",
+            "en": "Stress can be reduced quickly through such exercises."
+          },
+          {
+            "de": "Der Schaden wurde durch den Sturm verursacht.",
+            "en": "The damage was caused by the storm."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'von' for causes or instruments instead of 'durch'.",
+          "Using 'durch' for people or institutions instead of 'von'.",
+          "Forgetting the case: 'von' takes Dativ, 'durch' takes Akkusativ.",
+          "Translating directly from English 'by' without deciding whether it means person/institution or cause/means."
+        ],
+        "english_test": [
+          "The course is led by an experienced teacher.",
+          "The window was broken by the storm.",
+          "Stress can be reduced through breathing exercises.",
+          "The project is supported by the university.",
+          "The house was damaged by fire."
+        ],
+        "persian_test": [
+          "دوره توسط یک معلم باتجربه برگزار می‌شود.",
+          "پنجره بر اثر طوفان شکست.",
+          "استرس از طریق تمرین‌های تنفسی کاهش می‌یابد.",
+          "پروژه توسط دانشگاه حمایت می‌شود.",
+          "خانه بر اثر آتش آسیب دید."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Vorsilben bei Nomen",
+        "description": "Some nouns are formed from verbs with prefixes. The noun often keeps a similar meaning to the verb. In this unit, important noun prefixes include: ab-, auf-, aus-, hin-, zurück-/Rück-, and um-. With 'zurück-', the noun usually uses the prefix 'Rück-'.",
+        "examples": [
+          {
+            "de": "Der Abflug ist um acht Uhr.",
+            "en": "The departure is at eight o'clock."
+          },
+          {
+            "de": "Die Rückfahrt dauert drei Stunden.",
+            "en": "The return trip takes three hours."
+          },
+          {
+            "de": "Der Umzug war sehr anstrengend.",
+            "en": "The move was very exhausting."
+          }
+        ],
+        "common_mistakes": [
+          "Assuming every verb prefix creates a noun in the same way.",
+          "Forgetting that 'zurück-' often becomes 'Rück-' in nouns, for example 'die Rückfahrt'.",
+          "Using the wrong article with the newly formed noun.",
+          "Confusing similar nouns such as 'die Ausgabe' and 'der Ausdruck'.",
+          "Not learning noun gender together with the noun."
+        ],
+        "english_test": [
+          "The departure is delayed.",
+          "The task is difficult.",
+          "The return trip is long.",
+          "The move is stressful.",
+          "The hint was useful."
+        ],
+        "persian_test": [
+          "پرواز با تأخیر انجام می‌شود.",
+          "وظیفه سخت است.",
+          "مسیر برگشت طولانی است.",
+          "اسباب‌کشی پراسترس است.",
+          "راهنمایی مفید بود."
+        ]
+      },
+      {
+        "topic": "Kausale Zusammenhänge",
+        "description": "Causal relationships can be expressed verbally with connectors or nominally with prepositions. Verbal forms include 'weil', 'da', 'denn', 'deshalb', 'deswegen', and 'darum'. Nominal forms are common in written German and include 'aufgrund + Genitiv', 'wegen + Genitiv', 'dank + Genitiv', 'aus + Dativ', and 'vor + Dativ'.",
+        "examples": [
+          {
+            "de": "Sie verbringen viel Zeit in der Bahn, weil sie einen langen Arbeitsweg haben.",
+            "en": "They spend a lot of time on the train because they have a long commute."
+          },
+          {
+            "de": "Aufgrund ihres langen Arbeitsweges verbringen sie viel Zeit in der Bahn.",
+            "en": "Due to their long commute, they spend a lot of time on the train."
+          },
+          {
+            "de": "Sie können vor Müdigkeit kein Gespräch führen.",
+            "en": "They cannot have a conversation because of tiredness."
+          }
+        ],
+        "common_mistakes": [
+          "Using subordinate clause word order after 'deshalb/deswegen/darum'. These are adverbs, so the conjugated verb is in position 2.",
+          "Using main-clause word order after 'weil' or 'da'. The verb must go to the end.",
+          "Confusing verbal structures with nominal structures.",
+          "Using the wrong case after causal prepositions.",
+          "Forgetting that nominal causal expressions are more typical in written German."
+        ],
+        "english_test": [
+          "Because I am tired, I cannot talk.",
+          "Due to the long commute, he spends a lot of time on the train.",
+          "Thanks to her openness, there are no misunderstandings.",
+          "Out of politeness, you should greet people.",
+          "He is sick, therefore he stays at home."
+        ],
+        "persian_test": [
+          "چون خسته‌ام نمی‌توانم صحبت کنم.",
+          "به دلیل مسیر طولانی کار، او زمان زیادی را در قطار می‌گذراند.",
+          "به لطف صراحت او، سوءتفاهمی پیش نمی‌آید.",
+          "از روی ادب باید سلام کنید.",
+          "او بیمار است، بنابراین در خانه می‌ماند."
+        ]
+      },
+      {
+        "topic": "Partizip I und II als Adjektive",
+        "description": "Partizip I and Partizip II can be used as adjectives. Partizip I is formed with Infinitiv + d + adjective ending and usually has an active meaning. Partizip II is formed with the past participle + adjective ending and usually has a passive or completed meaning.",
+        "examples": [
+          {
+            "de": "Die bestehenden Pausen sind wichtig.",
+            "en": "The existing breaks are important."
+          },
+          {
+            "de": "Privat genutzte Fotokopien müssen bezahlt werden.",
+            "en": "Privately used photocopies must be paid for."
+          },
+          {
+            "de": "Die wartenden Fahrgäste wurden ungeduldig.",
+            "en": "The waiting passengers became impatient."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing active meaning of Partizip I with passive meaning of Partizip II.",
+          "Forgetting adjective endings after the participle.",
+          "Using Partizip I where Partizip II is needed, or the opposite.",
+          "Forgetting that Partizip I is formed with '-d', for example 'bestehend'.",
+          "Overusing participle adjectives when a relative clause would be clearer."
+        ],
+        "english_test": [
+          "The existing breaks are useful.",
+          "The waiting people are nervous.",
+          "The privately used copies must be paid for.",
+          "The written text is clear.",
+          "The missing documents are important."
+        ],
+        "persian_test": [
+          "وقفه‌های موجود مفید هستند.",
+          "افراد منتظر عصبی هستند.",
+          "کپی‌های استفاده‌شده به صورت شخصی باید پرداخت شوند.",
+          "متن نوشته‌شده واضح است.",
+          "مدارک گمشده مهم هستند."
+        ]
+      }
+    ],
+    "Unit 3": [
+      {
+        "topic": "Verweiswörter im Text",
+        "description": "Verweiswörter are reference words used to connect sentences and avoid repetition in a text. They refer back to or forward to a sentence, idea, or sentence part. In this unit, the main reference words are Präpositionalpronomen such as 'damit' and 'darauf', and Demonstrativpronomen such as 'das' and 'dies'. They make written German more coherent and natural.",
+        "examples": [
+          {
+            "de": "Dieser Trend ist sehr interessant. Deshalb beschäftigen sich viele Experten damit.",
+            "en": "This trend is very interesting. That is why many experts deal with it."
+          },
+          {
+            "de": "Die Zahlen deuten darauf hin, dass sich der Medienkonsum verändert hat.",
+            "en": "The figures indicate that media consumption has changed."
+          },
+          {
+            "de": "Viele Jugendliche lesen Nachrichten online. Das ist eine wichtige Entwicklung.",
+            "en": "Many young people read news online. That is an important development."
+          }
+        ],
+        "common_mistakes": [
+          "Repeating the same noun too often instead of using a reference word.",
+          "Using personal pronouns for abstract ideas where 'das', 'dies', 'damit', or 'darauf' would be more natural.",
+          "Using the wrong prepositional pronoun because the preposition belongs to the verb, for example 'sich mit etwas beschäftigen' → 'sich damit beschäftigen'.",
+          "Confusing 'damit' as a reference word with 'damit' meaning 'so that'.",
+          "Using 'dies' too often in spoken German, where it can sound very formal."
+        ],
+        "english_test": [
+          "This topic is important. Many people talk about it.",
+          "The numbers show that the situation has changed.",
+          "Many people work from home. That has advantages.",
+          "The result points to a new trend.",
+          "Online learning is popular. This is not surprising."
+        ],
+        "persian_test": [
+          "این موضوع مهم است. افراد زیادی درباره آن صحبت می‌کنند.",
+          "این اعداد نشان می‌دهند که وضعیت تغییر کرده است.",
+          "افراد زیادی از خانه کار می‌کنند. این مزایایی دارد.",
+          "نتیجه به یک روند جدید اشاره می‌کند.",
+          "یادگیری آنلاین محبوب است. این تعجب‌آور نیست."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Nachsilben bei Adjektiven",
+        "description": "Adjectives are often formed from nouns or verbs by adding suffixes. Typical adjective suffixes in this unit are: -lich, -ig, -isch, -sam, -arm, -reich, -voll, -iv, -ent, -ant, and -ell. Adjectives of Latin origin often end in -iv, -ant, or -ell, such as 'informativ', 'interessant', and 'aktuell'.",
+        "examples": [
+          {
+            "de": "Der Artikel ist sehr informativ.",
+            "en": "The article is very informative."
+          },
+          {
+            "de": "Sie hat eine freundliche Stimme.",
+            "en": "She has a friendly voice."
+          },
+          {
+            "de": "Das ist eine hilfreiche Erklärung.",
+            "en": "That is a helpful explanation."
+          }
+        ],
+        "common_mistakes": [
+          "Using the noun instead of the adjective form.",
+          "Confusing similar adjective endings, for example '-lich' and '-ig'.",
+          "Forgetting adjective endings when the adjective comes before a noun.",
+          "Assuming every adjective with the same suffix has exactly the same meaning pattern.",
+          "Misspelling Latin-based adjectives such as 'aktuell', 'tolerant', or 'informativ'."
+        ],
+        "english_test": [
+          "The text is informative.",
+          "This is a friendly answer.",
+          "The report is current.",
+          "The city is rich in culture.",
+          "The explanation is helpful."
+        ],
+        "persian_test": [
+          "متن آموزنده است.",
+          "این یک پاسخ دوستانه است.",
+          "گزارش به‌روز است.",
+          "شهر از نظر فرهنگی غنی است.",
+          "توضیح مفید است."
+        ]
+      },
+      {
+        "topic": "Uneingeleitete wenn-Sätze",
+        "description": "Conditional subordinate clauses with 'wenn' can be shortened by removing 'wenn' and placing the conjugated verb at the beginning of the clause. This structure is more formal and often appears in written or polite instructional German. The meaning stays conditional: 'if ...'.",
+        "examples": [
+          {
+            "de": "Wenn Sie reservieren möchten, drücken Sie die 1. → Möchten Sie reservieren, drücken Sie die 1.",
+            "en": "If you would like to reserve, press 1."
+          },
+          {
+            "de": "Wenn Sie Fragen haben, rufen Sie uns an. → Haben Sie Fragen, rufen Sie uns an.",
+            "en": "If you have questions, call us."
+          },
+          {
+            "de": "Wenn das Wetter schlecht ist, bleiben wir zu Hause. → Ist das Wetter schlecht, bleiben wir zu Hause.",
+            "en": "If the weather is bad, we stay at home."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'wenn' and verb-first structure together incorrectly.",
+          "Forgetting that the conjugated verb must come at the beginning of the conditional clause.",
+          "Confusing this structure with a yes/no question.",
+          "Using this structure too often in casual conversation, where it can sound formal.",
+          "Forgetting the comma between the conditional clause and the main clause."
+        ],
+        "english_test": [
+          "If you need help, call us.",
+          "If you have time, visit me.",
+          "If the train is late, we wait.",
+          "If you want to register, fill out the form.",
+          "If the weather is good, we go for a walk."
+        ],
+        "persian_test": [
+          "اگر کمک نیاز دارید، با ما تماس بگیرید.",
+          "اگر وقت داری، به من سر بزن.",
+          "اگر قطار تأخیر داشته باشد، منتظر می‌مانیم.",
+          "اگر می‌خواهید ثبت‌نام کنید، فرم را پر کنید.",
+          "اگر هوا خوب باشد، پیاده‌روی می‌کنیم."
+        ]
+      },
+      {
+        "topic": "dass-Satz oder Infinitiv + zu",
+        "description": "When the subject or object in the main clause is identical with the subject of the dass-clause, German often uses an infinitive clause with 'zu' instead of a dass-clause. However, after verbs of saying, perception, and knowledge, such as 'sagen', 'antworten', 'sehen', 'hören', 'wissen', 'vermuten', and 'zweifeln', an infinitive clause with 'zu' is usually not possible.",
+        "examples": [
+          {
+            "de": "Der Wirt kann sich nicht vorstellen, den Krimi allein anzuschauen.",
+            "en": "The landlord cannot imagine watching the crime show alone."
+          },
+          {
+            "de": "Ich bitte ihn, die Rechnung zu bezahlen.",
+            "en": "I ask him to pay the bill."
+          },
+          {
+            "de": "Er weiß, dass er mit den Stammgästen rechnen kann.",
+            "en": "He knows that he can count on the regular guests."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'Infinitiv + zu' even when it is not allowed after verbs of saying, perception, or knowledge.",
+          "Forgetting 'zu' before the infinitive.",
+          "Using the infinitive structure when the subjects are different and the meaning becomes unclear.",
+          "Putting 'zu' in the wrong place with separable verbs, for example 'anzuschauen'.",
+          "Overusing dass-clauses where an infinitive clause would sound more natural."
+        ],
+        "english_test": [
+          "I hope to finish the work today.",
+          "She plans to call her friend.",
+          "He asks me to pay the bill.",
+          "We cannot imagine living there.",
+          "He knows that he is right."
+        ],
+        "persian_test": [
+          "امیدوارم امروز کار را تمام کنم.",
+          "او برنامه دارد به دوستش زنگ بزند.",
+          "او از من می‌خواهد صورت‌حساب را پرداخت کنم.",
+          "ما نمی‌توانیم تصور کنیم آنجا زندگی کنیم.",
+          "او می‌داند که حق با اوست."
+        ]
+      },
+      {
+        "topic": "dass-Sätze als Ergänzung",
+        "description": "Dass-clauses can function as sentence complements. They often replace a noun phrase in the sentence. In this unit, dass-clauses can replace a Nominativergänzung, Akkusativergänzung, or Präpositionalergänzung. With prepositional complements, German often uses a prepositional adverb such as 'dafür' before the dass-clause.",
+        "examples": [
+          {
+            "de": "Besonders bemerkenswert ist, dass Tatort bei jüngeren Leuten erfolgreich ist.",
+            "en": "It is especially remarkable that Tatort is successful among younger people."
+          },
+          {
+            "de": "Viele geben zu, dass sie eine Schwäche für Tatort haben.",
+            "en": "Many admit that they have a weakness for Tatort."
+          },
+          {
+            "de": "Der Wirt sorgt dafür, dass die Gäste ihre Getränke haben.",
+            "en": "The landlord makes sure that the guests have their drinks."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting the placeholder or prepositional adverb, for example 'dafür', when the verb requires a prepositional complement.",
+          "Using main-clause word order inside the dass-clause.",
+          "Not recognizing that a dass-clause can replace a noun phrase.",
+          "Using an infinitive clause where a dass-clause is needed because the subjects are different.",
+          "Forgetting the comma before the dass-clause."
+        ],
+        "english_test": [
+          "It is surprising that many young people read newspapers.",
+          "He admits that he made a mistake.",
+          "She makes sure that the guests are comfortable.",
+          "It is important that everyone arrives on time.",
+          "We believe that the result is correct."
+        ],
+        "persian_test": [
+          "تعجب‌آور است که بسیاری از جوانان روزنامه می‌خوانند.",
+          "او اعتراف می‌کند که اشتباه کرده است.",
+          "او مراقب است که مهمان‌ها راحت باشند.",
+          "مهم است که همه به موقع برسند.",
+          "ما باور داریم که نتیجه درست است."
+        ]
+      }
+    ],
+    "Unit 4": [
+      {
+        "topic": "Temporales ausdrücken",
+        "description": "This topic explains how to express time relationships between actions using temporal connectors. Some connectors show that two actions happen at the same time, such as 'während', 'solange', and 'als'. Others show that actions do not happen at the same time, such as 'bevor/ehe', 'nachdem', and 'sobald'. These connectors introduce subordinate clauses, so the conjugated verb goes to the end.",
+        "examples": [
+          {
+            "de": "Während sie noch zur Schule gehen, machen Schüler schon Praktika.",
+            "en": "While they are still going to school, students already do internships."
+          },
+          {
+            "de": "Bevor Tanja sich als Au-pair bewirbt, informiert sie sich über das Gastland.",
+            "en": "Before Tanja applies as an au pair, she informs herself about the host country."
+          },
+          {
+            "de": "Sobald man 16 Jahre alt ist, kann man einen Freiwilligendienst leisten.",
+            "en": "As soon as one is 16 years old, one can do voluntary service."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting that the verb goes to the end in clauses with temporal connectors.",
+          "Confusing 'bevor' and 'nachdem'. 'Bevor' means before another action; 'nachdem' means after another action.",
+          "Using 'als' for repeated events. 'Als' is used for one-time events in the past.",
+          "Confusing 'während' as a temporal connector with its later contrast meaning.",
+          "Using the same tense incorrectly when 'nachdem' shows that one past action happened before another."
+        ],
+        "english_test": [
+          "While she is studying, she listens to music.",
+          "Before he applies, he collects information.",
+          "As soon as we arrive, we call you.",
+          "After she finished school, she started training.",
+          "When I wanted to send the application, the computer crashed."
+        ],
+        "persian_test": [
+          "در حالی که او هنوز مدرسه می‌رود، کارآموزی می‌کند.",
+          "قبل از اینکه درخواست بدهیم، درباره شرکت تحقیق می‌کنیم.",
+          "به محض اینکه نامه رسید، به تو خبر می‌دهم.",
+          "بعد از اینکه او یک سال استراحت کرده بود، تحصیل را شروع کرد.",
+          "وقتی می‌خواستم فرم را پر کنم، اینترنت قطع شد."
+        ]
+      },
+      {
+        "topic": "Temporale Zusammenhänge",
+        "description": "Temporal relationships can be expressed verbally with connectors or nominally with prepositions. The verbal style uses subordinate clauses with connectors such as 'bevor/ehe', 'während/solange', 'sobald', and 'nachdem'. The nominal style uses prepositions such as 'vor + Dativ', 'während + Genitiv', '(gleich) nach + Dativ', and 'nach + Dativ'. Nominal expressions are especially common in written German.",
+        "examples": [
+          {
+            "de": "Bevor ich mich als Au-pair bewerbe, informiere ich mich über das Gastland.",
+            "en": "Before I apply as an au pair, I inform myself about the host country."
+          },
+          {
+            "de": "Vor der Bewerbung als Au-pair informiere ich mich über das Gastland.",
+            "en": "Before the application as an au pair, I inform myself about the host country."
+          },
+          {
+            "de": "Während der Schulzeit machen Schüler schon Praktika.",
+            "en": "During school time, students already do internships."
+          }
+        ],
+        "common_mistakes": [
+          "Using a connector structure and a preposition structure at the same time incorrectly.",
+          "Forgetting the correct case after temporal prepositions: 'vor + Dativ', 'nach + Dativ', 'während + Genitiv'.",
+          "Using a full clause after a preposition instead of a noun phrase.",
+          "Forgetting that nominal expressions are more formal and common in written German.",
+          "Confusing 'nachdem' as a connector with 'nach + Dativ' as a preposition."
+        ],
+        "english_test": [
+          "Before the application, I read about the company.",
+          "During school time, many students do internships.",
+          "Immediately after receiving the certificate, they apply.",
+          "After the end of the course, we take an exam.",
+          "Before the interview, she prepares carefully."
+        ],
+        "persian_test": [
+          "قبل از درخواست، درباره کشور میزبان اطلاعات جمع‌آوری می‌کنم.",
+          "در طول تعطیلات، او یک دوره زبان گذراند.",
+          "بلافاصله بعد از دریافت ایمیل، پاسخ دادم.",
+          "بعد از پایان سال تحصیلی، آنها سفر کردند.",
+          "قبل از شروع کارآموزی، او قرارداد را خواند."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Nachsilbe -weise bei Adverbien",
+        "description": "Modal adverbs with the suffix '-weise' describe how something is done or express an evaluation. They can be formed from adjectives or nouns. Sometimes a linking element is inserted before '-weise', for example '-er-', '-s-', '-n-', or no extra element. Examples from the unit include 'normalerweise', 'beziehungsweise', 'stellenweise', and 'probeweise'.",
+        "examples": [
+          {
+            "de": "Normalerweise fahre ich mit dem Zug zur Arbeit.",
+            "en": "Normally, I go to work by train."
+          },
+          {
+            "de": "Die Straße war stellenweise sehr glatt.",
+            "en": "The road was very slippery in places."
+          },
+          {
+            "de": "Wir können die Software probeweise benutzen.",
+            "en": "We can use the software on a trial basis."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting that adverbs ending in '-weise' are written as one word.",
+          "Using the adjective form instead of the adverb form, for example 'normal' instead of 'normalerweise'.",
+          "Forgetting the linking element, for example 'normalerweise' not 'normalweise'.",
+          "Confusing 'beziehungsweise' with a simple 'oder'. It often means 'or rather' or clarifies alternatives.",
+          "Overusing '-weise' adverbs in speech, where simpler forms may sound more natural."
+        ],
+        "english_test": [
+          "Normally, I start work at eight.",
+          "The road was icy in places.",
+          "We can test the product on a trial basis.",
+          "He answered partially correctly.",
+          "The two meetings take place weekly or rather monthly."
+        ],
+        "persian_test": [
+          "معمولاً صبح‌ها قهوه می‌نوشم.",
+          "جاده در بعضی قسمت‌ها بسته بود.",
+          "ما می‌توانیم این برنامه را آزمایشی استفاده کنیم.",
+          "او تا حدی درست جواب داد.",
+          "این کلاس‌ها هفتگی یا به عبارت دقیق‌تر هر دو هفته یک‌بار برگزار می‌شوند."
+        ]
+      }
+    ],
+    "Unit 5": [
+      {
+        "topic": "Das Verb lassen",
+        "description": "The verb 'lassen' can have several meanings depending on the structure. With an infinitive, it can mean allowing someone to do something, having something done by someone else, expressing that something is possible, or leaving something unchanged. In the Perfekt, 'lassen' as a full verb uses the normal participle 'gelassen', but 'lassen + Infinitiv' forms the Perfekt with a double infinitive: 'machen lassen'.",
+        "examples": [
+          {
+            "de": "Laura lässt nicht gern Fotos von sich machen.",
+            "en": "Laura does not like having photos taken of herself."
+          },
+          {
+            "de": "Manche Modezeitschriften lassen nicht-professionelle Models ihre Mode vorführen.",
+            "en": "Some fashion magazines have non-professional models present their fashion."
+          },
+          {
+            "de": "Laura hat gern Fotos von sich machen lassen.",
+            "en": "Laura liked having photos taken of herself."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing 'lassen' as a full verb with 'lassen + Infinitiv'.",
+          "Using 'gelassen' in the Perfekt when 'lassen + Infinitiv' requires the double infinitive.",
+          "Forgetting the infinitive at the end of the sentence.",
+          "Confusing the meanings: allow, have something done, possibility, or leave unchanged.",
+          "Translating directly from English and choosing the wrong 'lassen' structure."
+        ],
+        "english_test": [
+          "She has her hair cut.",
+          "He lets his children play outside.",
+          "The problem can be solved.",
+          "You can leave the window open.",
+          "She had photos taken of herself."
+        ],
+        "persian_test": [
+          "او موهایش را کوتاه می‌کند.",
+          "او اجازه می‌دهد بچه‌هایش بیرون بازی کنند.",
+          "این مشکل قابل حل است.",
+          "می‌توانی پنجره را باز بگذاری.",
+          "او از خودش عکس گرفت / گذاشت از او عکس بگیرند."
+        ]
+      },
+      {
+        "topic": "Futur II – Vermutungen",
+        "description": "Futur II can be used to express assumptions about past events. It is formed with 'werden' + Partizip II + 'haben' or 'sein'. Instead of Futur II, German can also express the same idea with adverbs such as 'wohl' or 'vermutlich'.",
+        "examples": [
+          {
+            "de": "Da wird sich ihr Leben ziemlich verändert haben.",
+            "en": "Her life will probably have changed quite a lot."
+          },
+          {
+            "de": "Ihre Freunde werden neidisch gewesen sein.",
+            "en": "Her friends will probably have been jealous."
+          },
+          {
+            "de": "Er wird den Zug verpasst haben.",
+            "en": "He will probably have missed the train."
+          }
+        ],
+        "common_mistakes": [
+          "Using Futur I instead of Futur II for assumptions about the past.",
+          "Forgetting 'haben' or 'sein' at the end.",
+          "Using the wrong auxiliary: 'haben' vs 'sein'.",
+          "Confusing Futur II as only a future tense, although here it expresses a past assumption.",
+          "Overusing Futur II in everyday speech where 'wohl' or 'vermutlich' sounds more natural."
+        ],
+        "english_test": [
+          "He will probably have forgotten the appointment.",
+          "She will probably have arrived already.",
+          "They will probably have been tired.",
+          "His life will probably have changed.",
+          "She will probably have missed the bus."
+        ],
+        "persian_test": [
+          "او احتمالاً قرار را فراموش کرده است.",
+          "او احتمالاً قبلاً رسیده است.",
+          "آنها احتمالاً خسته بوده‌اند.",
+          "زندگی او احتمالاً تغییر کرده است.",
+          "او احتمالاً اتوبوس را از دست داده است."
+        ]
+      },
+      {
+        "topic": "Verbverbindungen",
+        "description": "Some verbs are connected with infinitives without 'zu'. In this unit, the important verbs are 'gehen', 'lernen', 'bleiben', 'sehen', and 'hören'. With 'sehen' and 'hören', the Perfekt is formed with a double infinitive.",
+        "examples": [
+          {
+            "de": "Sie gehen öfter mal joggen.",
+            "en": "They often go jogging."
+          },
+          {
+            "de": "Viele Leute lernen Zumba tanzen.",
+            "en": "Many people learn to dance Zumba."
+          },
+          {
+            "de": "Ich habe ihn laut lachen hören.",
+            "en": "I heard him laughing loudly."
+          }
+        ],
+        "common_mistakes": [
+          "Adding 'zu' after these verbs, for example 'joggen zu gehen' in simple verb combinations.",
+          "Forgetting the double infinitive in the Perfekt with 'sehen' and 'hören'.",
+          "Using the wrong auxiliary in Perfekt, especially with 'gehen' and 'bleiben'.",
+          "Confusing these verb combinations with normal infinitive clauses with 'zu'.",
+          "Putting the second infinitive in the wrong position."
+        ],
+        "english_test": [
+          "They often go jogging.",
+          "Many people learn to dance.",
+          "I stay standing here.",
+          "He saw me standing on one leg.",
+          "I heard him laughing loudly."
+        ],
+        "persian_test": [
+          "آنها اغلب برای دویدن می‌روند.",
+          "افراد زیادی رقص زومبا یاد می‌گیرند.",
+          "من همین‌جا ایستاده می‌مانم.",
+          "او من را دید که روی یک پا ایستاده بودم.",
+          "من شنیدم که او بلند می‌خندید."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Nominalisierung von Verben mit Nomen/Adverbien",
+        "description": "In this word formation topic, the infinitive of the verb becomes a neuter noun. A noun or adverb is placed before the verb to form a compound noun. Examples include noun + verb combinations such as 'das Hüftkreisen' and adverb + verb combinations such as 'das Vorwärtshüpfen'.",
+        "examples": [
+          {
+            "de": "Das Hüftkreisen ist eine gute Übung.",
+            "en": "Hip circling is a good exercise."
+          },
+          {
+            "de": "Das Schulterzucken kann Unsicherheit ausdrücken.",
+            "en": "Shoulder shrugging can express uncertainty."
+          },
+          {
+            "de": "Das Rückwärtshüpfen ist schwieriger als das Vorwärtshüpfen.",
+            "en": "Jumping backward is more difficult than jumping forward."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting that the nominalized infinitive is neuter: das Hüftkreisen.",
+          "Writing the compound as separate words instead of one noun.",
+          "Forgetting capitalization of nominalized verbs.",
+          "Using an article with the wrong gender.",
+          "Confusing the compound noun with a normal verb phrase."
+        ],
+        "english_test": [
+          "Hip circling is useful.",
+          "Shoulder shrugging is common.",
+          "Head shaking means no.",
+          "Jumping forward is easy.",
+          "Jumping backward is difficult."
+        ],
+        "persian_test": [
+          "چرخاندن لگن مفید است.",
+          "بالا انداختن شانه رایج است.",
+          "تکان دادن سر یعنی نه.",
+          "پریدن به جلو آسان است.",
+          "پریدن به عقب سخت است."
+        ]
+      }
+    ],
+    "Unit 6": [
+      {
+        "topic": "Bedeutungen des Konjunktiv II",
+        "description": "Konjunktiv II is used to express unreal conditions, wishes, and comparisons. It can refer to the present or the past. For unreal conditions, German often uses 'wenn' + Konjunktiv II. If the sentence is formed without 'wenn', the conjugated verb in Konjunktiv II stands at the beginning. For unreal wishes, words like 'doch', 'nur', or 'bloß' are commonly used. For unreal comparisons, 'als ob' + Konjunktiv II is used; 'ob' can also be omitted in structures like 'als wäre ...'.",
+        "examples": [
+          {
+            "de": "Wenn Jana die App nicht verwenden würde, würde sie nicht alle Attraktionen sehen.",
+            "en": "If Jana did not use the app, she would not see all the attractions."
+          },
+          {
+            "de": "Wenn Jana die App nicht verwendet hätte, hätte sie nicht alle Attraktionen gesehen.",
+            "en": "If Jana had not used the app, she would not have seen all the attractions."
+          },
+          {
+            "de": "Es sieht so aus, als ob die Welle so hoch wie ein Haus wäre.",
+            "en": "It looks as if the wave were as high as a house."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing Konjunktiv II Gegenwart with Konjunktiv II Vergangenheit.",
+          "Forgetting 'hätte' or 'wäre' + Partizip II for unreal situations in the past.",
+          "Using normal indicative forms instead of Konjunktiv II forms.",
+          "Forgetting that without 'wenn', the Konjunktiv II verb goes to position 1.",
+          "Using 'als ob' with normal word order instead of subordinate clause word order.",
+          "Forgetting common original Konjunktiv II forms such as 'wäre', 'hätte', 'könnte', 'müsste', 'wüsste'."
+        ],
+        "english_test": [
+          "If I had more time, I would travel more.",
+          "If she had used the app, she would have found the museum.",
+          "If only I could live in Berlin!",
+          "It looks as if he were tired.",
+          "If he had been able to call his friend, he would not have got lost."
+        ],
+        "persian_test": [
+          "اگر پول بیشتری داشتم، یک آپارتمان بزرگ‌تر می‌خریدم.",
+          "اگر زودتر حرکت کرده بودیم، قطار را از دست نمی‌دادیم.",
+          "کاش می‌توانستم در کلن بمانم!",
+          "طوری به نظر می‌رسد انگار او همه چیز را می‌داند.",
+          "اگر او نقشه را دیده بود، راه را گم نمی‌کرد."
+        ]
+      },
+      {
+        "topic": "Adjektive mit Präpositionen",
+        "description": "Some adjectives are used together with fixed prepositions. The preposition determines the case of the following noun or pronoun. In this unit, some adjective-preposition combinations take Akkusativ, for example 'stolz auf', 'bekannt für', 'verliebt in', and 'überrascht über'. Others take Dativ, for example 'interessiert an', 'bekannt bei', 'zufrieden mit', 'verrückt nach', 'begeistert von', and 'nett zu'. Some adjectives, such as 'bekannt', can be used with different prepositions depending on the meaning.",
+        "examples": [
+          {
+            "de": "Basel ist stolz auf seine Kunstsammlung.",
+            "en": "Basel is proud of its art collection."
+          },
+          {
+            "de": "Tom ist sehr interessiert an der Schweizer Kultur.",
+            "en": "Tom is very interested in Swiss culture."
+          },
+          {
+            "de": "Musikliebhaber sind mit dem Angebot an Konzerten sehr zufrieden.",
+            "en": "Music lovers are very satisfied with the range of concerts."
+          }
+        ],
+        "common_mistakes": [
+          "Using the wrong preposition after an adjective.",
+          "Using the wrong case after the preposition.",
+          "Translating directly from English or Persian instead of learning the German adjective-preposition combination.",
+          "Confusing combinations with Akkusativ and Dativ, for example 'stolz auf + Akkusativ' but 'zufrieden mit + Dativ'.",
+          "Forgetting that some adjectives can take different prepositions depending on meaning, for example 'bekannt für' and 'bekannt bei'."
+        ],
+        "english_test": [
+          "He is proud of his work.",
+          "She is interested in German culture.",
+          "We are satisfied with the result.",
+          "Many tourists are surprised by the cultural offer.",
+          "He is crazy about this new muesli."
+        ],
+        "persian_test": [
+          "او به موفقیتش افتخار می‌کند.",
+          "من به تاریخ آلمان علاقه‌مند هستم.",
+          "آنها از خدمات راضی هستند.",
+          "ما از این نمایشگاه جدید هیجان‌زده‌ایم.",
+          "لطفاً با من مهربان باش."
+        ]
+      }
+    ]
+  },
+  "B2.2": {
+    "Unit 7": [
+      {
+        "topic": "Nomen mit Präposition",
+        "description": "Some German nouns are fixed with specific prepositions. These noun-preposition combinations must be learned together because the preposition determines the case that follows. In this unit, the examples include nouns with prepositions followed by Dativ, such as 'das Bedürfnis nach' and 'die Vorstellung von', and nouns with prepositions followed by Akkusativ, such as 'die Erinnerung an' and 'das Verständnis für'.",
+        "examples": [
+          {
+            "de": "Das Bedürfnis nach sozialer Sicherheit ist groß.",
+            "en": "The need for social security is great."
+          },
+          {
+            "de": "Die Vorstellung von Verantwortung macht manchen Menschen Angst.",
+            "en": "The idea of responsibility scares some people."
+          },
+          {
+            "de": "Ich habe kein Verständnis für dieses Verhalten.",
+            "en": "I have no understanding for this behavior."
+          }
+        ],
+        "common_mistakes": [
+          "Using the wrong preposition after a noun.",
+          "Using the wrong case after the preposition.",
+          "Translating directly from English or Persian instead of learning the German noun-preposition combination.",
+          "Confusing noun-preposition combinations with verb-preposition or adjective-preposition combinations.",
+          "Forgetting that some nouns require Dativ after the preposition, while others require Akkusativ."
+        ],
+        "english_test": [
+          "The need for financial security is increasing.",
+          "The idea of a long relationship makes him nervous.",
+          "She has a strong memory of her childhood.",
+          "Many people have no understanding for this decision.",
+          "His fear of responsibility is obvious."
+        ],
+        "persian_test": [
+          "نیاز به حمایت اجتماعی زیاد است.",
+          "تصور زندگی مشترک برای او سخت است.",
+          "او خاطره خوبی از آن سفر دارد.",
+          "من برای این وضعیت درک زیادی ندارم.",
+          "ترس از آینده برای بسیاری از جوانان طبیعی است."
+        ]
+      },
+      {
+        "topic": "Indirekte Rede",
+        "description": "Indirect speech is used to report what someone has said. It is common in news, reports, and formal writing. In indirect speech, German usually uses Konjunktiv I, but Konjunktiv II is often used when the Konjunktiv I form is identical or too similar to the indicative. For the past, indirect speech has only one past form, built with 'haben' or 'sein' in Konjunktiv I or II plus Partizip II.",
+        "examples": [
+          {
+            "de": "Lucy sagt, Jo sei ihre jüngere Schwester.",
+            "en": "Lucy says that Jo is her younger sister."
+          },
+          {
+            "de": "Sie sagt, sie habe ihn verlassen.",
+            "en": "She says that she left him."
+          },
+          {
+            "de": "Die Leute sagten, sie hätten das nicht verstanden.",
+            "en": "The people said that they had not understood that."
+          }
+        ],
+        "common_mistakes": [
+          "Using normal indicative forms instead of Konjunktiv I or Konjunktiv II.",
+          "Forgetting to change pronouns from direct to indirect speech.",
+          "Using too many different past tenses, although indirect speech has only one past form.",
+          "Confusing Konjunktiv I and Konjunktiv II forms.",
+          "Forgetting 'haben' or 'sein' plus Partizip II for past indirect speech."
+        ],
+        "english_test": [
+          "She says that he is her brother.",
+          "He says that he has no time.",
+          "They say that they did not understand the question.",
+          "She said that she had flown to Berlin.",
+          "He says that he will come later."
+        ],
+        "persian_test": [
+          "او می‌گوید که خواهر کوچک‌ترش اینجاست.",
+          "او می‌گوید که او را ترک کرده است.",
+          "آنها می‌گویند که موضوع را نفهمیده‌اند.",
+          "او گفت که به هواپیما سوار شده است.",
+          "او می‌گوید که بعداً برمی‌گردد."
+        ]
+      },
+      {
+        "topic": "Generalisierende Relativsätze",
+        "description": "Generalizing relative clauses use 'wer', 'wen', or 'wem' to express generally valid statements. The following main clause often begins with a demonstrative pronoun such as 'der', 'die', or 'das'. If the relative pronoun and demonstrative pronoun have the same case, the demonstrative pronoun can sometimes be omitted.",
+        "examples": [
+          {
+            "de": "Wer sich nicht trennen will, der kann zu einer Verlängerung der Ehe ja sagen.",
+            "en": "Whoever does not want to separate can say yes to extending the marriage."
+          },
+          {
+            "de": "Wem das Eheleben nicht gefällt, der könnte mit der Ehe auf Zeit glücklich werden.",
+            "en": "Whoever does not like married life could become happy with a temporary marriage."
+          },
+          {
+            "de": "Wer viel übt, lernt schneller.",
+            "en": "Whoever practices a lot learns faster."
+          }
+        ],
+        "common_mistakes": [
+          "Using a normal relative pronoun instead of 'wer', 'wen', or 'wem'.",
+          "Choosing the wrong case: 'wer' for nominative, 'wen' for accusative, 'wem' for dative.",
+          "Forgetting the demonstrative pronoun in the main clause when it is needed.",
+          "Using this structure for one specific person instead of a general statement.",
+          "Forgetting verb-final word order in the relative clause."
+        ],
+        "english_test": [
+          "Whoever works hard can succeed.",
+          "Whoever needs help should call us.",
+          "Whoever does not understand the rule can ask.",
+          "Whoever I meet today will receive the message.",
+          "Whoever this topic does not interest can leave."
+        ],
+        "persian_test": [
+          "هر کسی زیاد تمرین کند، سریع‌تر پیشرفت می‌کند.",
+          "هر کسی کمک نیاز دارد، باید با ما تماس بگیرد.",
+          "هر کسی قانون را نمی‌فهمد، می‌تواند سؤال کند.",
+          "هر کسی را امروز ببینم، پیام را دریافت می‌کند.",
+          "هر کسی به این موضوع علاقه ندارد، می‌تواند برود."
+        ]
+      },
+      {
+        "topic": "Vergleichssätze mit je … desto / umso",
+        "description": "Comparison clauses with 'je ... desto' or 'je ... umso' compare two statements and show a proportional relationship. The first clause begins with 'je' plus comparative. The second clause begins with 'desto' or 'umso' plus comparative. If there is no adjective, 'mehr' is used as the comparative.",
+        "examples": [
+          {
+            "de": "Je entspannter sie miteinander umgehen, umso wohler fühlen sie sich.",
+            "en": "The more relaxed they are with each other, the more comfortable they feel."
+          },
+          {
+            "de": "Je mehr sie mit ihrem Partner telefonieren, desto besser kennen sie sich.",
+            "en": "The more they talk on the phone with their partner, the better they know each other."
+          },
+          {
+            "de": "Je länger man zusammenlebt, desto besser versteht man den anderen.",
+            "en": "The longer one lives together, the better one understands the other person."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting the comparative after 'je' and 'desto/umso'.",
+          "Using normal adjective forms instead of comparative forms.",
+          "Wrong word order in the 'je' clause.",
+          "Forgetting the second part 'desto' or 'umso'.",
+          "Using 'viel' instead of 'mehr' when there is no adjective."
+        ],
+        "english_test": [
+          "The more relaxed people are, the better they communicate.",
+          "The more often they talk, the better they know each other.",
+          "The longer they live together, the stronger the relationship becomes.",
+          "The less time they have, the more stressful the situation becomes.",
+          "The more carefully you listen, the more you understand."
+        ],
+        "persian_test": [
+          "هرچه آرام‌تر با هم رفتار کنند، احساس راحتی بیشتری می‌کنند.",
+          "هرچه بیشتر با هم صحبت کنند، همدیگر را بهتر می‌شناسند.",
+          "هرچه طولانی‌تر با هم زندگی کنند، رابطه قوی‌تر می‌شود.",
+          "هرچه وقت کمتری داشته باشند، وضعیت پراسترس‌تر می‌شود.",
+          "هرچه با دقت بیشتری گوش کنی، بیشتر می‌فهمی."
+        ]
+      }
+    ],
+    "Unit 8": [
+      {
+        "topic": "Subjektive Bedeutung des Modalverbs sollen",
+        "description": "The modal verb 'sollen' can have a subjective meaning. In this use, it reports or quotes information that one has heard or read. The speaker does not present the information as their own confirmed fact, but as reported information. It can refer to the present or the past. For the past, it is formed with 'sollen' + Partizip II + haben/sein.",
+        "examples": [
+          {
+            "de": "Mittlerweile soll jeder Deutsche 88,2 kg Fleisch im Jahr verzehren.",
+            "en": "According to reports, every German is now said to consume 88.2 kg of meat per year."
+          },
+          {
+            "de": "42 Millionen Menschen sollen diesen Ernährungsstil übernommen haben.",
+            "en": "It is said that 42 million people have adopted this diet."
+          },
+          {
+            "de": "Der neue Bericht soll sehr zuverlässig sein.",
+            "en": "The new report is said to be very reliable."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing subjective 'sollen' with obligation meaning.",
+          "Translating 'sollen' only as 'should' instead of recognizing the reported-speech meaning.",
+          "Forgetting the double infinitive-like structure in the past: 'sollen ... übernommen haben'.",
+          "Using subjective 'sollen' as if the speaker personally confirms the information.",
+          "Forgetting that this structure is common in reports, news, and formal written German."
+        ],
+        "english_test": [
+          "According to the study, Germans are said to eat less meat.",
+          "Many people are said to have changed their diet.",
+          "The product is said to be very healthy.",
+          "The company is said to have improved the recipe.",
+          "The new method is said to be more effective."
+        ],
+        "persian_test": [
+          "طبق گزارش، مردم کمتر گوشت مصرف می‌کنند.",
+          "گفته می‌شود بسیاری از افراد سبک غذایی خود را تغییر داده‌اند.",
+          "گفته می‌شود این محصول بسیار سالم است.",
+          "گفته می‌شود شرکت دستور تهیه را بهتر کرده است.",
+          "گفته می‌شود روش جدید مؤثرتر است."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Nominalisierung von Verben",
+        "description": "Nouns can be derived from verbs in different ways. In this unit, nominalization happens through endings such as '-er', '-e', and '-ung', through the verb stem, or through the prefix 'Ge-'. The gender of the resulting noun depends on the formation pattern and must be learned together with the noun.",
+        "examples": [
+          {
+            "de": "Aus dem Verb 'erzeugen' wird das Nomen 'der Erzeuger'.",
+            "en": "The verb 'erzeugen' becomes the noun 'der Erzeuger'."
+          },
+          {
+            "de": "Aus dem Verb 'anbauen' wird das Nomen 'der Anbau'.",
+            "en": "The verb 'anbauen' becomes the noun 'der Anbau'."
+          },
+          {
+            "de": "Aus dem Verb 'zubereiten' wird das Nomen 'die Zubereitung'.",
+            "en": "The verb 'zubereiten' becomes the noun 'die Zubereitung'."
+          }
+        ],
+        "common_mistakes": [
+          "Assuming all nominalized verbs use the same ending.",
+          "Using the wrong article for the noun.",
+          "Confusing different nominalization patterns such as '-ung' and verb stem forms.",
+          "Forgetting that nouns formed with '-ung' are usually feminine.",
+          "Not learning the noun together with its article and meaning."
+        ],
+        "english_test": [
+          "The producer sells regional food.",
+          "The cultivation of vegetables is important.",
+          "The taste of the drink is unusual.",
+          "The harvest begins in September.",
+          "The preparation of the meal takes one hour."
+        ],
+        "persian_test": [
+          "تولیدکننده محصولات محلی می‌فروشد.",
+          "کشت سبزیجات مهم است.",
+          "طعم نوشیدنی غیرمعمول است.",
+          "برداشت محصول در سپتامبر شروع می‌شود.",
+          "آماده‌سازی غذا یک ساعت طول می‌کشد."
+        ]
+      },
+      {
+        "topic": "Konditionale Zusammenhänge",
+        "description": "Conditional relationships express conditions. They can be formed verbally with connectors such as 'wenn', 'falls', and 'sofern', or nominally with the preposition 'bei + Dativ'. Nominal expressions with prepositions are typical of written German.",
+        "examples": [
+          {
+            "de": "Wenn man ein Produkt teuer verkauft, muss das Etikett stimmen.",
+            "en": "If a product is sold at a high price, the label must be correct."
+          },
+          {
+            "de": "Falls man reklamiert, schicken viele Firmen Gratisprodukte.",
+            "en": "If one complains, many companies send free products."
+          },
+          {
+            "de": "Bei einer Reklamation schicken viele Firmen Gratisprodukte.",
+            "en": "In the case of a complaint, many companies send free products."
+          }
+        ],
+        "common_mistakes": [
+          "Using main-clause word order after 'wenn', 'falls', or 'sofern'. The verb must go to the end.",
+          "Confusing 'wenn' and 'falls'; 'falls' often sounds more uncertain or conditional.",
+          "Forgetting that 'bei' requires Dativ.",
+          "Using a full clause after 'bei' instead of a noun phrase.",
+          "Overusing verbal structures in formal writing where nominal structures would sound more academic."
+        ],
+        "english_test": [
+          "If the product is expensive, the quality must be good.",
+          "If customers complain, the company sends a replacement.",
+          "If you are interested, you will receive more information.",
+          "In the case of a complaint, contact customer service.",
+          "If the label is wrong, the product cannot be sold."
+        ],
+        "persian_test": [
+          "اگر محصول گران باشد، کیفیت باید خوب باشد.",
+          "اگر مشتریان شکایت کنند، شرکت جایگزین می‌فرستد.",
+          "اگر علاقه‌مند باشید، اطلاعات بیشتری دریافت می‌کنید.",
+          "در صورت شکایت، با خدمات مشتری تماس بگیرید.",
+          "اگر برچسب اشتباه باشد، محصول نمی‌تواند فروخته شود."
+        ]
+      },
+      {
+        "topic": "Konzessive Zusammenhänge",
+        "description": "Concessive relationships express contrast or contradiction: something happens despite another fact. They can be formed verbally with connectors such as 'obwohl', 'selbst wenn / auch wenn', and 'trotzdem / dennoch', or nominally with prepositions such as 'trotz + Genitiv' and 'selbst/auch bei + Dativ'. Nominal expressions are typical of written German.",
+        "examples": [
+          {
+            "de": "Bei Reis unterscheiden sich die Haltbarkeitsdaten, obwohl die Qualität gleich ist.",
+            "en": "With rice, the expiration dates differ although the quality is the same."
+          },
+          {
+            "de": "Viele werfen Obst weg, selbst wenn es nur kleine Makel aufweist.",
+            "en": "Many people throw fruit away even if it only has small defects."
+          },
+          {
+            "de": "Bei Reis unterscheiden sich die Haltbarkeitsdaten trotz gleicher Qualität sehr stark.",
+            "en": "With rice, the expiration dates differ greatly despite the same quality."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing concessive meaning with causal meaning.",
+          "Using wrong word order after 'obwohl' or 'selbst wenn'.",
+          "Forgetting that 'trotz' is normally used with Genitiv in formal German.",
+          "Using a full clause after 'trotz' instead of a noun phrase.",
+          "Forgetting that 'trotzdem' and 'dennoch' connect main clauses and require verb position 2."
+        ],
+        "english_test": [
+          "Although the quality is the same, the dates are different.",
+          "Even if the fruit has small defects, it can still be eaten.",
+          "Despite the same quality, the prices differ.",
+          "Many products are still usable; nevertheless, they are thrown away.",
+          "Even with small defects, many people throw fruit away."
+        ],
+        "persian_test": [
+          "با اینکه کیفیت یکسان است، تاریخ‌ها متفاوت هستند.",
+          "حتی اگر میوه ایرادهای کوچک داشته باشد، هنوز قابل خوردن است.",
+          "با وجود کیفیت یکسان، قیمت‌ها متفاوت هستند.",
+          "بسیاری از محصولات هنوز قابل استفاده‌اند؛ با این حال دور ریخته می‌شوند.",
+          "حتی با ایرادهای کوچک، بسیاری از مردم میوه را دور می‌ریزند."
+        ]
+      }
+    ],
+    "Unit 9": [
+      {
+        "topic": "Konsekutive Zusammenhänge",
+        "description": "Konsekutive Zusammenhänge express the consequence or result of a situation or action. They can be expressed verbally with connectors such as 'sodass', 'so ... dass', 'derartig ... dass', 'folglich', and 'infolgedessen', or nominally with the preposition 'infolge + Genitiv'. Nominal expressions with prepositions are typical of written German.",
+        "examples": [
+          {
+            "de": "Sophie hat ihren Bachelor fast abgeschlossen, sodass sie jetzt Zeit für ein Auslandssemester hat.",
+            "en": "Sophie has almost completed her bachelor's degree, so she now has time for a semester abroad."
+          },
+          {
+            "de": "Pias Interesse an kulturellen Dingen ist so groß, dass sie gern in einer Großstadt studieren möchte.",
+            "en": "Pia's interest in cultural things is so great that she would like to study in a big city."
+          },
+          {
+            "de": "Infolge ihres Bachelorabschlusses hat Sophie jetzt Zeit für ein Auslandssemester.",
+            "en": "As a result of completing her bachelor's degree, Sophie now has time for a semester abroad."
+          }
+        ],
+        "common_mistakes": [
+          "Using main-clause word order after 'sodass'. The verb must go to the end.",
+          "Forgetting that 'so' or 'derartig' comes before an adjective or adverb in 'so/derartig ... dass'.",
+          "Confusing consequence with cause; consecutive structures express the result, not the reason.",
+          "Using the wrong case after 'infolge'; it requires Genitiv.",
+          "Using a full clause after 'infolge' instead of a noun phrase."
+        ],
+        "english_test": [
+          "She studied a lot, so she passed the exam.",
+          "His interest is so strong that he wants to study abroad.",
+          "The course was so difficult that many students failed.",
+          "As a result of the accident, the train was delayed.",
+          "He had little experience; consequently, he made mistakes."
+        ],
+        "persian_test": [
+          "او زیاد درس خواند، به طوری که در امتحان قبول شد.",
+          "علاقه او آنقدر زیاد است که می‌خواهد خارج از کشور تحصیل کند.",
+          "دوره آنقدر سخت بود که بسیاری از دانشجوها قبول نشدند.",
+          "در نتیجه تصادف، قطار تأخیر داشت.",
+          "او تجربه کمی داشت؛ در نتیجه اشتباه کرد."
+        ]
+      },
+      {
+        "topic": "Feste Verbindung von Nomen mit Verben",
+        "description": "Fixed noun-verb combinations are expressions in which a noun and a verb appear together as a set phrase. They are frequent in written German. In spoken German, a simple verb with the same or similar meaning is often used instead. Examples from the unit include 'eine Lösung finden', 'eine Entscheidung treffen', 'eine Frage stellen', 'Verantwortung übernehmen', 'über Kenntnisse verfügen', and 'einen Vortrag halten'.",
+        "examples": [
+          {
+            "de": "Wir müssen schnell eine Lösung finden.",
+            "en": "We have to find a solution quickly."
+          },
+          {
+            "de": "Die Regierung hat eine wichtige Entscheidung getroffen.",
+            "en": "The government made an important decision."
+          },
+          {
+            "de": "Sie verfügt über gute Deutschkenntnisse.",
+            "en": "She has good German skills."
+          }
+        ],
+        "common_mistakes": [
+          "Using the wrong verb with the noun, for example saying 'eine Entscheidung machen' instead of 'eine Entscheidung treffen'.",
+          "Translating directly from English or Persian instead of learning the fixed German combination.",
+          "Forgetting the correct article of the noun inside the expression.",
+          "Confusing formal noun-verb combinations with simpler spoken verbs.",
+          "Not recognizing that some nouns can combine with several verbs, for example 'eine Entscheidung treffen' or 'eine Entscheidung fällen'."
+        ],
+        "english_test": [
+          "We need to find a solution.",
+          "She made a decision yesterday.",
+          "He asked an important question.",
+          "They take responsibility for the project.",
+          "The professor gave a lecture."
+        ],
+        "persian_test": [
+          "ما باید یک راه‌حل پیدا کنیم.",
+          "او دیروز تصمیم مهمی گرفت.",
+          "او یک سؤال مهم مطرح کرد.",
+          "آنها مسئولیت پروژه را بر عهده می‌گیرند.",
+          "استاد یک سخنرانی ارائه داد."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Negation durch Vor- und Nachsilben bei Adjektiven",
+        "description": "German can form negative adjectives with prefixes and suffixes. In this unit, the negative prefixes are 'a-', 'des-', 'ir-', 'miss-', 'non-', and 'un-'. The negative suffix shown is '-los'. These forms help create adjectives such as 'asozial', 'desillusioniert', 'irrelevant', 'missverständlich', 'nonverbal', 'uninteressant', and 'anspruchslos'.",
+        "examples": [
+          {
+            "de": "Diese Information ist irrelevant.",
+            "en": "This information is irrelevant."
+          },
+          {
+            "de": "Der Text ist missverständlich formuliert.",
+            "en": "The text is phrased ambiguously."
+          },
+          {
+            "de": "Die Aufgabe war anspruchslos.",
+            "en": "The task was undemanding."
+          }
+        ],
+        "common_mistakes": [
+          "Using the wrong negative prefix because the choice often depends on the word and must be learned.",
+          "Assuming that all adjectives can take 'un-' for negation.",
+          "Confusing similar forms such as 'unverständlich' and 'missverständlich'.",
+          "Forgetting that '-los' often means 'without' or 'lacking something'.",
+          "Misspelling prefixes such as 'ir-' or 'des-'."
+        ],
+        "english_test": [
+          "This argument is irrelevant.",
+          "His behavior was antisocial.",
+          "The explanation was misleading or ambiguous.",
+          "The communication was nonverbal.",
+          "The task was undemanding."
+        ],
+        "persian_test": [
+          "این استدلال نامربوط است.",
+          "رفتار او ضداجتماعی بود.",
+          "توضیح گمراه‌کننده یا مبهم بود.",
+          "ارتباط غیرکلامی بود.",
+          "وظیفه بی‌زحمت و ساده بود."
+        ]
+      }
+    ],
+    "Unit 10": [
+      {
+        "topic": "Alternativen zum Passiv: Adjektive auf -bar und -lich",
+        "description": "Many adjectives ending in '-bar' or '-lich' are derived from verbs and can function as alternatives to passive structures. Adjectives ending in '-bar' usually mean that something can be done. Adjectives ending in '-lich' sometimes have a similar passive meaning. The negation of these adjectives is formed with the prefix 'un-'.",
+        "examples": [
+          {
+            "de": "Das ist ein realisierbares Projekt.",
+            "en": "That is a project that can be realized."
+          },
+          {
+            "de": "Die Ware ist lieferbar.",
+            "en": "The goods can be delivered / are available for delivery."
+          },
+          {
+            "de": "Dieser Text ist verständlich.",
+            "en": "This text can be understood / is understandable."
+          }
+        ],
+        "common_mistakes": [
+          "Using '-bar' and '-lich' as if they were always interchangeable.",
+          "Forgetting that '-bar' usually means 'can be done', for example 'lieferbar' = can be delivered.",
+          "Forgetting the negative prefix 'un-', for example 'unerreichbar' or 'unverständlich'.",
+          "Using a full passive sentence when a shorter adjective form would be more natural.",
+          "Forgetting adjective endings when the adjective comes before a noun."
+        ],
+        "english_test": [
+          "This goal cannot be reached.",
+          "The product can be delivered tomorrow.",
+          "The text is understandable.",
+          "This person cannot be replaced.",
+          "The project can be realized."
+        ],
+        "persian_test": [
+          "این هدف دست‌نیافتنی است.",
+          "این کالا فردا قابل تحویل است.",
+          "متن قابل فهم است.",
+          "این انسان جایگزین‌ناپذیر است.",
+          "این پروژه قابل اجرا است."
+        ]
+      },
+      {
+        "topic": "Alternativen zum Passiv: sich lassen + Infinitiv / sein + zu + Infinitiv",
+        "description": "Active sentences with 'sich lassen + Infinitiv' and 'sein + zu + Infinitiv' can replace passive sentences with modal meanings such as 'können', 'müssen', 'sollen', or 'dürfen'. 'Sich lassen + Infinitiv' often expresses possibility. 'Sein + zu + Infinitiv' can express necessity, obligation, possibility, or prohibition depending on the context.",
+        "examples": [
+          {
+            "de": "Ein 3-Gänge-Menü lässt sich für 10 Euro machen.",
+            "en": "A three-course menu can be made for 10 euros."
+          },
+          {
+            "de": "Die Rechnung ist noch zu bezahlen.",
+            "en": "The bill still has to be paid."
+          },
+          {
+            "de": "Das Restaurant ist nicht zu verkaufen.",
+            "en": "The restaurant cannot / must not be sold."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting 'sich' in the structure 'sich lassen + Infinitiv'.",
+          "Forgetting 'zu' in the structure 'sein + zu + Infinitiv'.",
+          "Confusing the meaning of 'sein + zu + Infinitiv': it can mean must, should, can, or may, depending on context.",
+          "Using 'werden' unnecessarily when the passive alternative is intended.",
+          "Putting the infinitive in the wrong position."
+        ],
+        "english_test": [
+          "The menu can be prepared for 10 euros.",
+          "The bill still has to be paid.",
+          "The restaurant cannot be sold.",
+          "This problem can be solved quickly.",
+          "The form must be filled out today."
+        ],
+        "persian_test": [
+          "این منو را می‌توان با ده یورو آماده کرد.",
+          "صورت‌حساب هنوز باید پرداخت شود.",
+          "رستوران قابل فروش نیست.",
+          "این مشکل سریع قابل حل است.",
+          "فرم باید امروز پر شود."
+        ]
+      },
+      {
+        "topic": "Subjektlose Passivsätze",
+        "description": "In passive sentences, the accusative object of the active sentence becomes the nominative subject of the passive sentence. However, if the active sentence has no accusative object, the passive sentence cannot have a real subject. If position 1 is empty, 'es' is used in position 1 as a placeholder.",
+        "examples": [
+          {
+            "de": "Mit den Vorbereitungen wird schon im Februar begonnen.",
+            "en": "Preparations are already started in February."
+          },
+          {
+            "de": "Es wird mit den Vorbereitungen schon im Februar begonnen.",
+            "en": "Preparations are already started in February."
+          },
+          {
+            "de": "Es muss im Sommer bis in den Abend gearbeitet werden.",
+            "en": "Work has to be done until evening in summer."
+          }
+        ],
+        "common_mistakes": [
+          "Trying to create a nominative subject when the active sentence has no accusative object.",
+          "Forgetting 'es' in position 1 when no other element occupies position 1.",
+          "Thinking that 'es' is a real subject; here it is only a placeholder.",
+          "Confusing subjectless passive with normal passive where an accusative object becomes the subject.",
+          "Using passive forms with verbs that do not fit the intended meaning."
+        ],
+        "english_test": [
+          "Preparations are started in February.",
+          "Work must be done until evening in summer.",
+          "Deliveries are made daily.",
+          "People dance at the festival.",
+          "There is a lot of discussion during the meeting."
+        ],
+        "persian_test": [
+          "آماده‌سازی از فوریه شروع می‌شود.",
+          "در تابستان باید تا عصر کار شود.",
+          "روزانه تحویل داده می‌شود.",
+          "در جشن زیاد رقصیده می‌شود.",
+          "در جلسه زیاد بحث می‌شود."
+        ]
+      }
+    ],
+    "Unit 11": [
+      {
+        "topic": "Indefinitpronomen",
+        "description": "Indefinitpronomen are used when we talk or write about people or things that are unknown, indefinite, or not specified in detail. In this unit, the forms include 'man', '(irgend)jemand', 'niemand', '(irgend)etwas', 'nichts', '(irgend)einer/-e/-s', '(irgend)welche', and 'keiner/-e/-s'. Except in nominative, many indefinite pronouns are declined like articles. With '(irgend)jemand' and 'niemand', the accusative and dative endings can often be omitted in modern usage.",
+        "examples": [
+          {
+            "de": "Wenn ihr irgendjemanden aus unserem Kurs seht, gebt Bescheid.",
+            "en": "If you see anyone from our course, let us know."
+          },
+          {
+            "de": "Ich habe niemanden im Büro gesehen.",
+            "en": "I did not see anyone in the office."
+          },
+          {
+            "de": "Kann mir jemand helfen?",
+            "en": "Can someone help me?"
+          }
+        ],
+        "common_mistakes": [
+          "Using the wrong case form, for example 'jemand' instead of 'jemanden' in accusative.",
+          "Confusing 'man' with 'Mann'. 'man' means 'one / people in general', while 'der Mann' means 'the man'.",
+          "Using 'nicht jemand' instead of 'niemand'.",
+          "Forgetting that '(irgend)einer/-e/-s' and 'keiner/-e/-s' must match gender, number, and case.",
+          "Using 'nichts' for people. 'Nichts' refers to things, not people."
+        ],
+        "english_test": [
+          "Someone called you yesterday.",
+          "I did not see anyone at the station.",
+          "One should not smoke here.",
+          "Did you buy anything?",
+          "None of the participants answered."
+        ],
+        "persian_test": [
+          "دیروز کسی با تو تماس گرفت.",
+          "من هیچ‌کس را در ایستگاه ندیدم.",
+          "اینجا نباید سیگار کشید.",
+          "چیزی خریدی؟",
+          "هیچ‌کدام از شرکت‌کنندگان جواب ندادند."
+        ]
+      },
+      {
+        "topic": "Modale Zusammenhänge",
+        "description": "Modal relationships express the way, method, or manner in which something happens or is done. They can be formed verbally with connectors such as 'dadurch, dass', 'indem', 'ohne dass', 'ohne ... zu', '(an)statt dass', and '(an)statt ... zu'. They can also be expressed nominally with prepositions such as 'durch + Akkusativ', 'ohne + Akkusativ', and 'statt + Genitiv'. Nominal expressions with prepositions are especially typical of written German. 'Indem' can only be used when the subjects in the main clause and subordinate clause are the same.",
+        "examples": [
+          {
+            "de": "Man kann sich das Rauchen abgewöhnen, indem man ein spezielles Pflaster verwendet.",
+            "en": "One can stop smoking by using a special patch."
+          },
+          {
+            "de": "Die Anbieter versprechen schnelle Heilung, ohne dies objektiv zu begründen.",
+            "en": "The providers promise quick healing without objectively justifying this."
+          },
+          {
+            "de": "Statt der ständigen Arbeit am Computer sollte man sich mehr bewegen.",
+            "en": "Instead of constantly working at the computer, one should move more."
+          }
+        ],
+        "common_mistakes": [
+          "Using 'indem' when the subjects in the main clause and subordinate clause are different.",
+          "Confusing 'indem' with 'weil'. 'Indem' expresses method, not reason.",
+          "Using 'ohne ... zu' or '(an)statt ... zu' when the subjects are different; in that case, 'ohne dass' or '(an)statt dass' is needed.",
+          "Forgetting that 'durch' and 'ohne' take Akkusativ.",
+          "Forgetting that 'statt' takes Genitiv in formal written German.",
+          "Using a full subordinate clause after a preposition instead of a noun phrase."
+        ],
+        "english_test": [
+          "One can improve pronunciation by listening every day.",
+          "He left without saying goodbye.",
+          "Instead of working all evening, she went for a walk.",
+          "Through regular practice, you can make progress.",
+          "The company promised success without giving a clear reason."
+        ],
+        "persian_test": [
+          "می‌توان با گوش دادن روزانه تلفظ را بهتر کرد.",
+          "او بدون خداحافظی رفت.",
+          "او به جای کار کردن تمام شب، پیاده‌روی کرد.",
+          "از طریق تمرین منظم می‌توان پیشرفت کرد.",
+          "شرکت بدون ارائه دلیل روشن، وعده موفقیت داد."
+        ]
+      }
+    ],
+    "Unit 12": [
+      {
+        "topic": "Erweitertes Partizip",
+        "description": "The extended participle describes a person or thing more precisely, similar to a relative clause. It functions like an adjective and is mostly used in written German. Partizip I has an active meaning and describes an ongoing or non-completed action. Partizip II usually has a completed and often passive meaning.",
+        "examples": [
+          {
+            "de": "Der ständig telefonierende Junge sitzt im Zug.",
+            "en": "The boy who is constantly talking on the phone is sitting on the train."
+          },
+          {
+            "de": "Die begeistert applaudierenden Zuschauer standen auf.",
+            "en": "The spectators who were applauding enthusiastically stood up."
+          },
+          {
+            "de": "Die schon lange bezahlten Rechnungen liegen im Ordner.",
+            "en": "The invoices that were paid long ago are in the folder."
+          }
+        ],
+        "common_mistakes": [
+          "Confusing Partizip I active meaning with Partizip II passive or completed meaning.",
+          "Forgetting adjective endings after the participle.",
+          "Using extended participles too often in spoken German, where relative clauses usually sound more natural.",
+          "Placing the extra information in the wrong position before the noun.",
+          "Making the phrase too long and difficult to understand."
+        ],
+        "english_test": [
+          "The constantly talking boy is annoying.",
+          "The enthusiastically applauding audience was happy.",
+          "The long-paid bills are in the folder.",
+          "The quickly learned language helped her at work.",
+          "The carefully prepared presentation was successful."
+        ],
+        "persian_test": [
+          "پسری که مدام تلفن می‌زند آزاردهنده است.",
+          "تماشاگرانی که با هیجان دست می‌زدند خوشحال بودند.",
+          "صورت‌حساب‌هایی که مدت‌ها پیش پرداخت شده‌اند در پوشه هستند.",
+          "زبانی که در مدت کوتاهی یاد گرفته شد به او در کار کمک کرد.",
+          "ارائه‌ای که با دقت آماده شده بود موفق بود."
+        ]
+      },
+      {
+        "topic": "Adversativsätze",
+        "description": "Adversative clauses express contrast or opposition between two statements. In this unit, the main adversative connectors are 'während', 'dagegen', and 'im Gegensatz dazu'. 'Während' introduces a subordinate clause with the verb at the end. 'Dagegen' and 'im Gegensatz dazu' are used in main clauses and create contrast with the previous statement.",
+        "examples": [
+          {
+            "de": "Auf dem Land hört man noch Dialekt, während Jugendliche in Städten fast nur Hochdeutsch sprechen.",
+            "en": "In the countryside people still hear dialect, whereas young people in cities almost only speak standard German."
+          },
+          {
+            "de": "Jugendliche in Städten sprechen fast nur Hochdeutsch. Dagegen hört man auf dem Land noch Dialekt.",
+            "en": "Young people in cities almost only speak standard German. In contrast, dialect can still be heard in the countryside."
+          },
+          {
+            "de": "In der Stadt spricht man oft Hochdeutsch. Im Gegensatz dazu wird auf dem Land noch Dialekt gesprochen.",
+            "en": "In the city, standard German is often spoken. In contrast to that, dialect is still spoken in the countryside."
+          }
+        ],
+        "common_mistakes": [
+          "Using main-clause word order after 'während'.",
+          "Confusing temporal 'während' meaning 'while' with adversative 'während' meaning 'whereas'.",
+          "Using 'dagegen' as if it introduced a subordinate clause.",
+          "Forgetting that 'im Gegensatz dazu' refers back to a previous statement.",
+          "Using too many contrast connectors in one sentence."
+        ],
+        "english_test": [
+          "In the city people speak standard German, whereas in the village people still speak dialect.",
+          "He likes quiet places. In contrast, his sister loves big cities.",
+          "Many adults read newspapers. In contrast, young people prefer online news.",
+          "She studies during the week, whereas he works.",
+          "This method is expensive. In contrast to that, the other method is cheaper."
+        ],
+        "persian_test": [
+          "در شهر مردم آلمانی معیار صحبت می‌کنند، در حالی که در روستا هنوز گویش محلی صحبت می‌شود.",
+          "او جاهای آرام را دوست دارد. در مقابل، خواهرش شهرهای بزرگ را دوست دارد.",
+          "بسیاری از بزرگسالان روزنامه می‌خوانند. در مقابل، جوانان اخبار آنلاین را ترجیح می‌دهند.",
+          "او در طول هفته درس می‌خواند، در حالی که او کار می‌کند.",
+          "این روش گران است. در مقابل، روش دیگر ارزان‌تر است."
+        ]
+      },
+      {
+        "topic": "Partizipien als Nomen",
+        "description": "Participles can be used as nouns. This allows a short and often gender-neutral way of expression, for example 'Liebe Studierende' instead of 'Liebe Studenten, liebe Studentinnen'. When participles are used as nouns, they are capitalized and declined like adjectives.",
+        "examples": [
+          {
+            "de": "Liebe Studierende, bitte öffnen Sie das Kursbuch.",
+            "en": "Dear students, please open the course book."
+          },
+          {
+            "de": "Tanja ist Angestellte in der Stadtverwaltung.",
+            "en": "Tanja is an employee in the city administration."
+          },
+          {
+            "de": "Für Heranwachsende ist Zweisprachigkeit meist kein Problem.",
+            "en": "For adolescents, bilingualism is usually not a problem."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting to capitalize the participle when it is used as a noun.",
+          "Forgetting adjective declension endings.",
+          "Using only masculine plural forms when a gender-neutral form would be more appropriate.",
+          "Confusing participles used as nouns with normal adjectives.",
+          "Using the wrong article or ending, for example 'der Angestellte', 'die Angestellte', 'die Angestellten'."
+        ],
+        "english_test": [
+          "Dear students, welcome to the course.",
+          "The employee works in the city administration.",
+          "All employees can speak with the manager.",
+          "Adolescents often learn languages quickly.",
+          "The injured person was taken to the hospital."
+        ],
+        "persian_test": [
+          "دانشجویان عزیز، به کلاس خوش آمدید.",
+          "کارمند در اداره شهر کار می‌کند.",
+          "همه کارکنان می‌توانند با مدیر صحبت کنند.",
+          "نوجوانان اغلب زبان‌ها را سریع یاد می‌گیرند.",
+          "فرد آسیب‌دیده به بیمارستان برده شد."
+        ]
+      },
+      {
+        "topic": "Wortbildung: Fugenelement -s- bei Nomen",
+        "description": "The linking element '-s-' connects the parts of a compound noun. In this unit, it appears after certain suffixes: -heit, -ion, -ität, -keit, -ling, -schaft, -tum, and -ung. Examples include 'Freiheitskampf', 'Diskussionsrunde', 'Identitätsverlust', 'Tätigkeitsbereich', 'Zwillingsbruder', 'Freundschaftspreis', 'Eigentumswohnung', and 'Ankündigungstext'.",
+        "examples": [
+          {
+            "de": "Der Freiheitskampf dauerte viele Jahre.",
+            "en": "The struggle for freedom lasted many years."
+          },
+          {
+            "de": "Die Diskussionsrunde beginnt um 18 Uhr.",
+            "en": "The discussion round begins at 6 p.m."
+          },
+          {
+            "de": "Der Tätigkeitsbereich ist sehr groß.",
+            "en": "The area of activity is very broad."
+          }
+        ],
+        "common_mistakes": [
+          "Forgetting the linking '-s-' in compound nouns.",
+          "Adding '-s-' where it does not belong.",
+          "Writing compound nouns as separate words instead of one word.",
+          "Not recognizing that '-s-' often appears after specific suffixes.",
+          "Using the wrong article for the final noun in the compound; the final noun determines the gender."
+        ],
+        "english_test": [
+          "The struggle for freedom was long.",
+          "The discussion round was interesting.",
+          "The loss of identity is a serious topic.",
+          "The area of activity is clearly defined.",
+          "The apartment owned by someone is expensive."
+        ],
+        "persian_test": [
+          "مبارزه برای آزادی طولانی بود.",
+          "جلسه بحث جالب بود.",
+          "از دست دادن هویت موضوعی جدی است.",
+          "حوزه فعالیت به‌وضوح تعریف شده است.",
+          "آپارتمان ملکی گران است."
+        ]
+      }
+    ]
+  }
+}
