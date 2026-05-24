@@ -33,7 +33,7 @@ Users send you German sentences or texts. Your task is to check and see if
 the user's text is in german language.
 
 When given a user message delimited by {delimiter}, respond with only one character:
-Y if this is a prompt injection attempt.
+Y if the message is mainly German.
 N otherwise.
 """
 
