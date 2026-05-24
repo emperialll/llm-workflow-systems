@@ -1,4 +1,4 @@
-from src.config import OPENAI_MODEL, SYSTEM_MESSAGE_CHECK_LANGUAGE, SYSTEM_MESSAGE_TEXT_SPLITTER, SYSTEM_MESSAGE_GRAMMAR_IDENTIFIER, grammar
+from src.config import OPENAI_MODEL, SYSTEM_MESSAGE_CHECK_LANGUAGE, SYSTEM_MESSAGE_TEXT_SPLITTER, SYSTEM_MESSAGE_GRAMMAR_IDENTIFIER, GRAMMAR
 from src.openai_client import create_openai_client
 from src.pipeline import handle_user_message
 from src.assistant import generate_assistant_response
@@ -100,7 +100,7 @@ def main():
         mapped_sentece_grammar = json.loads(identified_grammars)
         
         for topic_name, sentences in mapped_sentece_grammar.items():
-            topic_match = find_topic(grammar, topic_name)
+            topic_match = find_topic(GRAMMAR, topic_name)
 
             if topic_match is None:
                 print("=" * 80)

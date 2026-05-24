@@ -1,14 +1,15 @@
 import json
 import os
+from pathlib import Path
 from dotenv import find_dotenv, load_dotenv
 
 load_dotenv(find_dotenv())
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
 GRAMMAR_FILE_NAME = "German-Grammatik.json"
-
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-GRAMMAR_FILE_PATH = os.path.join(os.path.dirname(SCRIPT_DIR), GRAMMAR_FILE_NAME)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "data"
+GRAMMAR_FILE_PATH = DATA_DIR / GRAMMAR_FILE_NAME
 
 def load_grammar():
     with open(GRAMMAR_FILE_PATH, 'r', encoding='utf-8') as f:
@@ -23,8 +24,8 @@ def get_grammar_topics(grammar: dict) -> list:
                 grammar_topics.append(topic["topic"])
     return grammar_topics
 
-grammar = load_grammar()
-grammar_topics = get_grammar_topics(grammar)
+GRAMMAR = load_grammar()
+GRAMMAR_TOPICS = get_grammar_topics(GRAMMAR)
 
 delimiter = "####"
 
@@ -58,7 +59,7 @@ The user will send you a list of German sentences delimited by {delimiter}.
 Your task is to identify which grammar topics from the **Grammar Bank** are present in these sentences.
 
 Grammar Bank:
-{grammar_topics}
+{GRAMMAR_TOPICS}
 
 ### Instructions:
 - Only use grammar topics that exist in the Grammar Bank above.
