@@ -1,4 +1,4 @@
-from llm_utils import get_completion, get_completion_from_messages, get_completion_and_token_count
+from chat_format_and_tokens.llm_utils import get_completion, get_completion_from_messages, get_completion_and_token_count
 
 
 # LLM Basics and Chat Format

@@ -1,4 +1,4 @@
-from llm_client import client
+from chat_format_and_tokens.llm_client import client
 
 
 # ============== Simple prompt completion ===================
